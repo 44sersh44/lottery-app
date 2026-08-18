@@ -32,12 +32,16 @@ jobs:
           android.archs = arm64-v8a, armeabi-v7a
           android.allow_backup = True
           android.debug_artifact = apk
+
           [buildozer]
           log_level = 2
           warn_on_root = 1
           EOF
       - name: Build APK
-        run: echo y | buildozer android debug deploy run
+        run: |
+          export AUTOCONF_VERSION=2.69
+          export AUTOMAKE_VERSION=1.16
+          echo y | buildozer android debug deploy run
       - name: Upload APK
         uses: actions/upload-artifact@v6
         with:
