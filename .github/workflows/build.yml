@@ -4,7 +4,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - name: Install dependencies
         run: |
           sudo apt update
@@ -39,7 +39,7 @@ jobs:
       - name: Build APK
         run: echo y | buildozer android debug deploy run
       - name: Upload APK
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: lottery-apk
           path: bin/*.apk
