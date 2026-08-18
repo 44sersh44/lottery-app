@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-06-24T21:14:23.973727",
+  "field": 1,
+  "target_digits": 4,
+  "selected_models": [
+    "Markov",
+    "HarmonicMean",
+    "Lasso",
+    "BayesianARD",
+    "SVM",
+    "KNN",
+    "AdaBoost",
+    "GaussianNB"
+  ],
+  "models_count": 5,
+  "message": "Применены параметры для 5 моделей"
+}

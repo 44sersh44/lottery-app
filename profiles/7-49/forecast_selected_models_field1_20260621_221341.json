@@ -1,0 +1,56 @@
+{
+  "timestamp": "2026-06-21T22:13:41.439958",
+  "field": 1,
+  "target_digits": 4,
+  "models_count": 4,
+  "predictions": {
+    "QuantileRegressor": {
+      "prediction": [
+        5,
+        8,
+        19,
+        20,
+        29,
+        40,
+        45
+      ],
+      "accuracy": 1.38
+    },
+    "ExpSmoothing": {
+      "prediction": [
+        8,
+        10,
+        12,
+        37,
+        38,
+        43,
+        45
+      ],
+      "accuracy": 1.1
+    },
+    "TheilSen": {
+      "prediction": [
+        3,
+        8,
+        21,
+        22,
+        31,
+        34,
+        46
+      ],
+      "accuracy": 1.05
+    },
+    "XGBoost": {
+      "prediction": [
+        1,
+        10,
+        13,
+        23,
+        25,
+        37,
+        38
+      ],
+      "accuracy": 0.95
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-06-20T22:39:08.971692",
+  "field": 1,
+  "target_digits": 5,
+  "models_count": 1,
+  "predictions": {
+    "ExtraTrees": {
+      "prediction": [
+        14,
+        17,
+        25,
+        29,
+        32,
+        36,
+        44
+      ],
+      "accuracy": 0.85
+    }
+  }
+}

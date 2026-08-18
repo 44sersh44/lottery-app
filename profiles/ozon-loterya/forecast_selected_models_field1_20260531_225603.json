@@ -1,0 +1,164 @@
+{
+  "timestamp": "2026-05-31T22:56:03.632040",
+  "field": 1,
+  "target_digits": 4,
+  "models_count": 13,
+  "predictions": {
+    "LinearReg": {
+      "prediction": [
+        5,
+        10,
+        13,
+        17,
+        21,
+        27,
+        31
+      ],
+      "accuracy": 1.71
+    },
+    "Bagging": {
+      "prediction": [
+        4,
+        6,
+        7,
+        15,
+        20,
+        27,
+        30
+      ],
+      "accuracy": 1.71
+    },
+    "AdaBoost": {
+      "prediction": [
+        8,
+        13,
+        14,
+        16,
+        21,
+        23,
+        27
+      ],
+      "accuracy": 1.57
+    },
+    "Lasso": {
+      "prediction": [
+        1,
+        11,
+        14,
+        21,
+        26,
+        27,
+        29
+      ],
+      "accuracy": 1.43
+    },
+    "TheilSen": {
+      "prediction": [
+        1,
+        2,
+        11,
+        17,
+        28,
+        31,
+        32
+      ],
+      "accuracy": 1.43
+    },
+    "SVM": {
+      "prediction": [
+        3,
+        15,
+        18,
+        24,
+        27,
+        32,
+        33
+      ],
+      "accuracy": 1.43
+    },
+    "IsolationForest": {
+      "prediction": [
+        1,
+        3,
+        4,
+        11,
+        22,
+        25,
+        33
+      ],
+      "accuracy": 1.43
+    },
+    "XGBoost": {
+      "prediction": [
+        4,
+        11,
+        16,
+        19,
+        22,
+        24,
+        25
+      ],
+      "accuracy": 1.29
+    },
+    "Prophet": {
+      "prediction": [
+        8,
+        11,
+        14,
+        19,
+        20,
+        27,
+        28
+      ],
+      "accuracy": 1.29
+    },
+    "Transformer": {
+      "prediction": [
+        8,
+        11,
+        14,
+        19,
+        20,
+        27,
+        28
+      ],
+      "accuracy": 1.29
+    },
+    "Bayesian": {
+      "prediction": [
+        3,
+        8,
+        11,
+        13,
+        17,
+        19,
+        28
+      ],
+      "accuracy": 1.14
+    },
+    "Bootstrap": {
+      "prediction": [
+        3,
+        8,
+        11,
+        13,
+        17,
+        19,
+        28
+      ],
+      "accuracy": 1.14
+    },
+    "GaussianNB": {
+      "prediction": [
+        1,
+        2,
+        7,
+        11,
+        18,
+        34,
+        35
+      ],
+      "accuracy": 1.0
+    }
+  }
+}

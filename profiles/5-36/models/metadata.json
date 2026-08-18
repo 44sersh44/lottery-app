@@ -1,0 +1,626 @@
+{
+  "Frequency.pkl": {
+    "name": "Frequency",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:40.352920",
+    "is_trained": true,
+    "is_double": true
+  },
+  "Positional.pkl": {
+    "name": "Positional",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:40.352920",
+    "is_trained": true,
+    "is_double": true
+  },
+  "Poisson.pkl": {
+    "name": "Poisson",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:40.364330",
+    "is_trained": true,
+    "is_double": true
+  },
+  "Markov.pkl": {
+    "name": "Markov",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:40.364330",
+    "is_trained": true,
+    "is_double": true
+  },
+  "WeightedFreq.pkl": {
+    "name": "WeightedFreq",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:40.364330",
+    "is_trained": true,
+    "is_double": true
+  },
+  "LinearReg.pkl": {
+    "name": "LinearReg",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:40.364330",
+    "is_trained": true,
+    "is_double": true
+  },
+  "ARIMA.pkl": {
+    "name": "ARIMA",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:42.040434",
+    "is_trained": true,
+    "is_double": true
+  },
+  "RandomForest.pkl": {
+    "name": "RandomForest",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:42.668973",
+    "is_trained": true,
+    "is_double": true
+  },
+  "XGBoost.pkl": {
+    "name": "XGBoost",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:42.703982",
+    "is_trained": true,
+    "is_double": true
+  },
+  "MovingAverage.pkl": {
+    "name": "MovingAverage",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:42.719485",
+    "is_trained": true,
+    "is_double": true
+  },
+  "Bayesian.pkl": {
+    "name": "Bayesian",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:42.723494",
+    "is_trained": true,
+    "is_double": true
+  },
+  "Bootstrap.pkl": {
+    "name": "Bootstrap",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:42.935561",
+    "is_trained": true,
+    "is_double": true
+  },
+  "ExpSmoothing.pkl": {
+    "name": "ExpSmoothing",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:42.935561",
+    "is_trained": true,
+    "is_double": true
+  },
+  "GeometricMean.pkl": {
+    "name": "GeometricMean",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:42.935561",
+    "is_trained": true,
+    "is_double": true
+  },
+  "HarmonicMean.pkl": {
+    "name": "HarmonicMean",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:42.935561",
+    "is_trained": true,
+    "is_double": true
+  },
+  "Median.pkl": {
+    "name": "Median",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:42.951446",
+    "is_trained": true,
+    "is_double": true
+  },
+  "Ridge.pkl": {
+    "name": "Ridge",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:42.951446",
+    "is_trained": true,
+    "is_double": true
+  },
+  "Lasso.pkl": {
+    "name": "Lasso",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:42.963630",
+    "is_trained": true,
+    "is_double": true
+  },
+  "ElasticNet.pkl": {
+    "name": "ElasticNet",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:42.973474",
+    "is_trained": true,
+    "is_double": true
+  },
+  "Huber.pkl": {
+    "name": "Huber",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:42.998673",
+    "is_trained": true,
+    "is_double": true
+  },
+  "TheilSen.pkl": {
+    "name": "TheilSen",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:43.393530",
+    "is_trained": true,
+    "is_double": true
+  },
+  "OMP.pkl": {
+    "name": "OMP",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:43.409556",
+    "is_trained": true,
+    "is_double": true
+  },
+  "BayesianARD.pkl": {
+    "name": "BayesianARD",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:43.409556",
+    "is_trained": true,
+    "is_double": true
+  },
+  "PassiveAggressive.pkl": {
+    "name": "PassiveAggressive",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:43.425578",
+    "is_trained": true,
+    "is_double": true
+  },
+  "SVM.pkl": {
+    "name": "SVM",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:43.441385",
+    "is_trained": false,
+    "is_double": true
+  },
+  "KNN.pkl": {
+    "name": "KNN",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:43.441385",
+    "is_trained": true,
+    "is_double": true
+  },
+  "KNNPattern.pkl": {
+    "name": "KNNPattern",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:43.457466",
+    "is_trained": true,
+    "is_double": true
+  },
+  "DBSCAN.pkl": {
+    "name": "DBSCAN",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:43.473585",
+    "is_trained": true,
+    "is_double": true
+  },
+  "IsolationForest.pkl": {
+    "name": "IsolationForest",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:43.489587",
+    "is_trained": false,
+    "is_double": true
+  },
+  "ExtraTrees.pkl": {
+    "name": "ExtraTrees",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:43.553573",
+    "is_trained": true,
+    "is_double": true
+  },
+  "GradientBoosting.pkl": {
+    "name": "GradientBoosting",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:43.617067",
+    "is_trained": true,
+    "is_double": true
+  },
+  "AdaBoost.pkl": {
+    "name": "AdaBoost",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:43.662736",
+    "is_trained": true,
+    "is_double": true
+  },
+  "Bagging.pkl": {
+    "name": "Bagging",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:43.688164",
+    "is_trained": true,
+    "is_double": true
+  },
+  "HistGradientBoosting.pkl": {
+    "name": "HistGradientBoosting",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:43.814078",
+    "is_trained": true,
+    "is_double": true
+  },
+  "GaussianNB.pkl": {
+    "name": "GaussianNB",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:43.835844",
+    "is_trained": true,
+    "is_double": true
+  },
+  "BernoulliNB.pkl": {
+    "name": "BernoulliNB",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:43.843594",
+    "is_trained": false,
+    "is_double": true
+  },
+  "QuantileRegressor.pkl": {
+    "name": "QuantileRegressor",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:43.912121",
+    "is_trained": true,
+    "is_double": true
+  },
+  "RidgeCV.pkl": {
+    "name": "RidgeCV",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:43.922807",
+    "is_trained": true,
+    "is_double": true
+  },
+  "MetaEnsemble.pkl": {
+    "name": "MetaEnsemble",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:43.933574",
+    "is_trained": true,
+    "is_double": true
+  },
+  "Frequency_field2.pkl": {
+    "name": "Frequency",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:43.933574",
+    "is_trained": true,
+    "is_double": false
+  },
+  "Positional_field2.pkl": {
+    "name": "Positional",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:43.933574",
+    "is_trained": true,
+    "is_double": false
+  },
+  "Poisson_field2.pkl": {
+    "name": "Poisson",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:43.933574",
+    "is_trained": true,
+    "is_double": false
+  },
+  "Markov_field2.pkl": {
+    "name": "Markov",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:43.933574",
+    "is_trained": true,
+    "is_double": false
+  },
+  "WeightedFreq_field2.pkl": {
+    "name": "WeightedFreq",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:43.933574",
+    "is_trained": true,
+    "is_double": false
+  },
+  "LinearReg_field2.pkl": {
+    "name": "LinearReg",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:43.947564",
+    "is_trained": true,
+    "is_double": false
+  },
+  "ARIMA_field2.pkl": {
+    "name": "ARIMA",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:44.159013",
+    "is_trained": true,
+    "is_double": false
+  },
+  "RandomForest_field2.pkl": {
+    "name": "RandomForest",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:44.263921",
+    "is_trained": true,
+    "is_double": false
+  },
+  "XGBoost_field2.pkl": {
+    "name": "XGBoost",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:44.294720",
+    "is_trained": true,
+    "is_double": false
+  },
+  "MovingAverage_field2.pkl": {
+    "name": "MovingAverage",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:44.303739",
+    "is_trained": true,
+    "is_double": false
+  },
+  "Bayesian_field2.pkl": {
+    "name": "Bayesian",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:44.305745",
+    "is_trained": true,
+    "is_double": false
+  },
+  "Bootstrap_field2.pkl": {
+    "name": "Bootstrap",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:44.372546",
+    "is_trained": true,
+    "is_double": false
+  },
+  "ExpSmoothing_field2.pkl": {
+    "name": "ExpSmoothing",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:44.374549",
+    "is_trained": true,
+    "is_double": false
+  },
+  "GeometricMean_field2.pkl": {
+    "name": "GeometricMean",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:44.376554",
+    "is_trained": true,
+    "is_double": false
+  },
+  "HarmonicMean_field2.pkl": {
+    "name": "HarmonicMean",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:44.378559",
+    "is_trained": true,
+    "is_double": false
+  },
+  "Median_field2.pkl": {
+    "name": "Median",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:44.380564",
+    "is_trained": true,
+    "is_double": false
+  },
+  "Ridge_field2.pkl": {
+    "name": "Ridge",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:44.384575",
+    "is_trained": true,
+    "is_double": false
+  },
+  "Lasso_field2.pkl": {
+    "name": "Lasso",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:44.394342",
+    "is_trained": true,
+    "is_double": false
+  },
+  "ElasticNet_field2.pkl": {
+    "name": "ElasticNet",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:44.402359",
+    "is_trained": true,
+    "is_double": false
+  },
+  "Huber_field2.pkl": {
+    "name": "Huber",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:44.406076",
+    "is_trained": true,
+    "is_double": false
+  },
+  "TheilSen_field2.pkl": {
+    "name": "TheilSen",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:44.756638",
+    "is_trained": true,
+    "is_double": false
+  },
+  "OMP_field2.pkl": {
+    "name": "OMP",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:44.772587",
+    "is_trained": true,
+    "is_double": false
+  },
+  "BayesianARD_field2.pkl": {
+    "name": "BayesianARD",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:44.784033",
+    "is_trained": true,
+    "is_double": false
+  },
+  "PassiveAggressive_field2.pkl": {
+    "name": "PassiveAggressive",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:44.788272",
+    "is_trained": true,
+    "is_double": false
+  },
+  "SVM_field2.pkl": {
+    "name": "SVM",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:44.788272",
+    "is_trained": false,
+    "is_double": false
+  },
+  "KNN_field2.pkl": {
+    "name": "KNN",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:44.804193",
+    "is_trained": true,
+    "is_double": false
+  },
+  "KNNPattern_field2.pkl": {
+    "name": "KNNPattern",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:44.804193",
+    "is_trained": true,
+    "is_double": false
+  },
+  "DBSCAN_field2.pkl": {
+    "name": "DBSCAN",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:44.820107",
+    "is_trained": true,
+    "is_double": false
+  },
+  "IsolationForest_field2.pkl": {
+    "name": "IsolationForest",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:44.820107",
+    "is_trained": false,
+    "is_double": false
+  },
+  "ExtraTrees_field2.pkl": {
+    "name": "ExtraTrees",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:44.867768",
+    "is_trained": true,
+    "is_double": false
+  },
+  "GradientBoosting_field2.pkl": {
+    "name": "GradientBoosting",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:44.931133",
+    "is_trained": true,
+    "is_double": false
+  },
+  "AdaBoost_field2.pkl": {
+    "name": "AdaBoost",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:44.931133",
+    "is_trained": true,
+    "is_double": false
+  },
+  "Bagging_field2.pkl": {
+    "name": "Bagging",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:44.949134",
+    "is_trained": true,
+    "is_double": false
+  },
+  "HistGradientBoosting_field2.pkl": {
+    "name": "HistGradientBoosting",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:45.004910",
+    "is_trained": true,
+    "is_double": false
+  },
+  "GaussianNB_field2.pkl": {
+    "name": "GaussianNB",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:45.023372",
+    "is_trained": true,
+    "is_double": false
+  },
+  "BernoulliNB_field2.pkl": {
+    "name": "BernoulliNB",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:45.028381",
+    "is_trained": false,
+    "is_double": false
+  },
+  "QuantileRegressor_field2.pkl": {
+    "name": "QuantileRegressor",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:45.087639",
+    "is_trained": true,
+    "is_double": false
+  },
+  "RidgeCV_field2.pkl": {
+    "name": "RidgeCV",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:45.093648",
+    "is_trained": true,
+    "is_double": false
+  },
+  "MetaEnsemble_field2.pkl": {
+    "name": "MetaEnsemble",
+    "field": 2,
+    "model_version": 2,
+    "saved_at": "2026-05-29T19:46:45.101137",
+    "is_trained": true,
+    "is_double": false
+  }
+}

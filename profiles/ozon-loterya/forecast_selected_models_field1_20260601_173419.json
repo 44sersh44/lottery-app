@@ -1,0 +1,212 @@
+{
+  "timestamp": "2026-06-01T17:34:19.678264",
+  "field": 1,
+  "target_digits": 4,
+  "models_count": 17,
+  "predictions": {
+    "AdaBoost": {
+      "prediction": [
+        6,
+        8,
+        11,
+        14,
+        18,
+        21,
+        28
+      ],
+      "accuracy": 2.29
+    },
+    "GaussianNB": {
+      "prediction": [
+        5,
+        6,
+        8,
+        9,
+        19,
+        28,
+        30
+      ],
+      "accuracy": 2.14
+    },
+    "RidgeCV": {
+      "prediction": [
+        6,
+        7,
+        11,
+        20,
+        27,
+        29,
+        31
+      ],
+      "accuracy": 2.14
+    },
+    "LinearReg": {
+      "prediction": [
+        5,
+        10,
+        13,
+        17,
+        21,
+        27,
+        31
+      ],
+      "accuracy": 1.71
+    },
+    "IsolationForest": {
+      "prediction": [
+        3,
+        10,
+        13,
+        18,
+        19,
+        22,
+        33
+      ],
+      "accuracy": 1.57
+    },
+    "GradientBoosting": {
+      "prediction": [
+        2,
+        5,
+        6,
+        14,
+        23,
+        29,
+        33
+      ],
+      "accuracy": 1.57
+    },
+    "QuantileRegressor": {
+      "prediction": [
+        3,
+        5,
+        14,
+        20,
+        21,
+        29,
+        33
+      ],
+      "accuracy": 1.57
+    },
+    "BayesianARD": {
+      "prediction": [
+        3,
+        12,
+        20,
+        23,
+        25,
+        26,
+        31
+      ],
+      "accuracy": 1.29
+    },
+    "Prophet": {
+      "prediction": [
+        8,
+        11,
+        14,
+        19,
+        20,
+        27,
+        28
+      ],
+      "accuracy": 1.29
+    },
+    "Bayesian": {
+      "prediction": [
+        3,
+        8,
+        11,
+        13,
+        17,
+        19,
+        28
+      ],
+      "accuracy": 1.14
+    },
+    "Bootstrap": {
+      "prediction": [
+        3,
+        8,
+        11,
+        13,
+        17,
+        19,
+        28
+      ],
+      "accuracy": 1.14
+    },
+    "ExpSmoothing": {
+      "prediction": [
+        3,
+        11,
+        13,
+        21,
+        23,
+        29,
+        35
+      ],
+      "accuracy": 1.14
+    },
+    "XGBoost": {
+      "prediction": [
+        3,
+        7,
+        10,
+        16,
+        19,
+        22,
+        30
+      ],
+      "accuracy": 1.14
+    },
+    "KNN": {
+      "prediction": [
+        2,
+        10,
+        11,
+        20,
+        21,
+        31,
+        32
+      ],
+      "accuracy": 1.0
+    },
+    "Markov": {
+      "prediction": [
+        11,
+        13,
+        15,
+        19,
+        28,
+        32,
+        34
+      ],
+      "accuracy": 0.86
+    },
+    "Ridge": {
+      "prediction": [
+        1,
+        6,
+        8,
+        26,
+        31,
+        33,
+        35
+      ],
+      "accuracy": 0.86
+    },
+    "DBSCAN": {
+      "prediction": [
+        2,
+        5,
+        9,
+        24,
+        27,
+        29,
+        30
+      ],
+      "accuracy": 0.71
+    }
+  }
+}

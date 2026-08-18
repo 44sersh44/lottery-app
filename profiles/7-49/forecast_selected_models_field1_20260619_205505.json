@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-06-19T20:55:05.290396",
+  "field": 1,
+  "target_digits": 5,
+  "models_count": 1,
+  "predictions": {
+    "GaussianNB": {
+      "prediction": [
+        2,
+        7,
+        12,
+        17,
+        18,
+        19,
+        24
+      ],
+      "accuracy": 0.92
+    }
+  }
+}

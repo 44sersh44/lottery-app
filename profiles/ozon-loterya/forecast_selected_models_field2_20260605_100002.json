@@ -1,0 +1,104 @@
+{
+  "timestamp": "2026-06-05T10:00:02.074133",
+  "field": 2,
+  "target_digits": 1,
+  "models_count": 16,
+  "predictions": {
+    "AdaBoost": {
+      "prediction": [
+        21
+      ],
+      "accuracy": 2.43
+    },
+    "RandomForest": {
+      "prediction": [
+        25
+      ],
+      "accuracy": 1.86
+    },
+    "XGBoost": {
+      "prediction": [
+        42
+      ],
+      "accuracy": 1.57
+    },
+    "TheilSen": {
+      "prediction": [
+        50
+      ],
+      "accuracy": 1.57
+    },
+    "KNNPattern": {
+      "prediction": [
+        20
+      ],
+      "accuracy": 1.57
+    },
+    "LSTM": {
+      "prediction": [
+        19
+      ],
+      "accuracy": 1.57
+    },
+    "SVM": {
+      "prediction": [
+        7
+      ],
+      "accuracy": 1.43
+    },
+    "Huber": {
+      "prediction": [
+        22
+      ],
+      "accuracy": 1.29
+    },
+    "HistGradientBoosting": {
+      "prediction": [
+        28
+      ],
+      "accuracy": 1.29
+    },
+    "ExtraTrees": {
+      "prediction": [
+        33
+      ],
+      "accuracy": 1.14
+    },
+    "Ridge": {
+      "prediction": [
+        15
+      ],
+      "accuracy": 1.0
+    },
+    "DBSCAN": {
+      "prediction": [
+        20
+      ],
+      "accuracy": 1.0
+    },
+    "IsolationForest": {
+      "prediction": [
+        33
+      ],
+      "accuracy": 1.0
+    },
+    "GradientBoosting": {
+      "prediction": [
+        30
+      ],
+      "accuracy": 1.0
+    },
+    "MonteCarlo": {
+      "prediction": [
+        19
+      ],
+      "accuracy": 1.0
+    },
+    "Lasso": {
+      "prediction": [
+        18
+      ],
+      "accuracy": 0.57
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "timestamp": "2026-05-31T17:33:47.303194",
+  "field": 1,
+  "target_digits": 4,
+  "models_count": 14,
+  "predictions": {
+    "LinearReg": {
+      "prediction": [
+        5,
+        10,
+        13,
+        17,
+        21,
+        27,
+        31
+      ],
+      "accuracy": 1.71
+    },
+    "OMP": {
+      "prediction": [
+        5,
+        8,
+        15,
+        24,
+        26,
+        29,
+        31
+      ],
+      "accuracy": 1.71
+    },
+    "XGBoost": {
+      "prediction": [
+        4,
+        6,
+        9,
+        18,
+        21,
+        29,
+        30
+      ],
+      "accuracy": 1.43
+    },
+    "Lasso": {
+      "prediction": [
+        14,
+        15,
+        16,
+        18,
+        23,
+        26,
+        27
+      ],
+      "accuracy": 1.43
+    },
+    "Bagging": {
+      "prediction": [
+        1,
+        2,
+        5,
+        21,
+        23,
+        27,
+        29
+      ],
+      "accuracy": 1.43
+    },
+    "Prophet": {
+      "prediction": [
+        8,
+        11,
+        14,
+        19,
+        20,
+        27,
+        28
+      ],
+      "accuracy": 1.29
+    },
+    "Transformer": {
+      "prediction": [
+        8,
+        11,
+        14,
+        19,
+        20,
+        27,
+        28
+      ],
+      "accuracy": 1.29
+    },
+    "Bayesian": {
+      "prediction": [
+        3,
+        8,
+        11,
+        13,
+        17,
+        19,
+        28
+      ],
+      "accuracy": 1.14
+    },
+    "SVM": {
+      "prediction": [
+        2,
+        6,
+        10,
+        11,
+        12,
+        14,
+        17
+      ],
+      "accuracy": 1.14
+    },
+    "KNN": {
+      "prediction": [
+        4,
+        7,
+        11,
+        13,
+        24,
+        29,
+        32
+      ],
+      "accuracy": 1.14
+    },
+    "GradientBoosting": {
+      "prediction": [
+        1,
+        5,
+        12,
+        13,
+        22,
+        27,
+        28
+      ],
+      "accuracy": 1.14
+    },
+    "Markov": {
+      "prediction": [
+        3,
+        8,
+        9,
+        12,
+        18,
+        25,
+        26
+      ],
+      "accuracy": 1.0
+    },
+    "MovingAverage": {
+      "prediction": [
+        7,
+        12,
+        14,
+        18,
+        20,
+        28,
+        30
+      ],
+      "accuracy": 1.0
+    },
+    "Bootstrap": {
+      "prediction": [
+        3,
+        8,
+        11,
+        13,
+        17,
+        19,
+        28
+      ],
+      "accuracy": 1.0
+    }
+  }
+}

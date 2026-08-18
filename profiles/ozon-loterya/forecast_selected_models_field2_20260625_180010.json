@@ -1,0 +1,110 @@
+{
+  "timestamp": "2026-06-25T18:00:10.965422",
+  "field": 2,
+  "target_digits": 1,
+  "models_count": 17,
+  "predictions": {
+    "Ridge": {
+      "prediction": [
+        39
+      ],
+      "accuracy": 1.88
+    },
+    "HistGradientBoosting": {
+      "prediction": [
+        22
+      ],
+      "accuracy": 1.62
+    },
+    "SVM": {
+      "prediction": [
+        5
+      ],
+      "accuracy": 1.5
+    },
+    "WeightedFreq": {
+      "prediction": [
+        8
+      ],
+      "accuracy": 1.38
+    },
+    "RidgeCV": {
+      "prediction": [
+        26
+      ],
+      "accuracy": 1.38
+    },
+    "PassiveAggressive": {
+      "prediction": [
+        28
+      ],
+      "accuracy": 1.25
+    },
+    "KNN": {
+      "prediction": [
+        42
+      ],
+      "accuracy": 1.25
+    },
+    "KNNPattern": {
+      "prediction": [
+        53
+      ],
+      "accuracy": 1.25
+    },
+    "DBSCAN": {
+      "prediction": [
+        46
+      ],
+      "accuracy": 1.25
+    },
+    "AdaBoost": {
+      "prediction": [
+        50
+      ],
+      "accuracy": 1.25
+    },
+    "BernoulliNB": {
+      "prediction": [
+        47
+      ],
+      "accuracy": 1.25
+    },
+    "XGBoost": {
+      "prediction": [
+        53
+      ],
+      "accuracy": 1.12
+    },
+    "ElasticNet": {
+      "prediction": [
+        37
+      ],
+      "accuracy": 1.12
+    },
+    "Huber": {
+      "prediction": [
+        21
+      ],
+      "accuracy": 1.12
+    },
+    "IsolationForest": {
+      "prediction": [
+        30
+      ],
+      "accuracy": 1.12
+    },
+    "GradientBoosting": {
+      "prediction": [
+        45
+      ],
+      "accuracy": 1.12
+    },
+    "Bagging": {
+      "prediction": [
+        34
+      ],
+      "accuracy": 1.12
+    }
+  }
+}

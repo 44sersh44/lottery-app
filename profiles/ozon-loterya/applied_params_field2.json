@@ -1,0 +1,26 @@
+{
+  "timestamp": "2026-06-25T17:58:58.202982",
+  "field": 2,
+  "target_digits": 1,
+  "selected_models": [
+    "WeightedFreq",
+    "XGBoost",
+    "Ridge",
+    "ElasticNet",
+    "Huber",
+    "PassiveAggressive",
+    "SVM",
+    "KNN",
+    "KNNPattern",
+    "DBSCAN",
+    "IsolationForest",
+    "GradientBoosting",
+    "AdaBoost",
+    "Bagging",
+    "HistGradientBoosting",
+    "BernoulliNB",
+    "RidgeCV"
+  ],
+  "models_count": 17,
+  "message": "Применены параметры для 17 моделей"
+}

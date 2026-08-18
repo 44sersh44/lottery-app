@@ -1,0 +1,532 @@
+{
+  "Markov.pkl": {
+    "name": "Markov",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:45.006760",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "MonteCarlo.pkl": {
+    "name": "MonteCarlo",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:53.978180",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "MetaEnsemble.pkl": {
+    "name": "MetaEnsemble",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:53.968238",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "ExtraTrees.pkl": {
+    "name": "ExtraTrees",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:48.178220",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "BestWeightedEnsemble.pkl": {
+    "name": "BestWeightedEnsemble",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-13T14:18:35.959755",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "BlendingEnsemble.pkl": {
+    "name": "BlendingEnsemble",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:10:48.490405",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "Frequency.pkl": {
+    "name": "Frequency",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:44.992993",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "Positional.pkl": {
+    "name": "Positional",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:44.997000",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "Poisson.pkl": {
+    "name": "Poisson",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:45.002752",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "WeightedFreq.pkl": {
+    "name": "WeightedFreq",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:45.016134",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "LinearReg.pkl": {
+    "name": "LinearReg",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:45.018138",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "ARIMA.pkl": {
+    "name": "ARIMA",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:46.847193",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "RandomForest.pkl": {
+    "name": "RandomForest",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:47.719160",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "XGBoost.pkl": {
+    "name": "XGBoost",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:47.771410",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "MovingAverage.pkl": {
+    "name": "MovingAverage",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:47.778378",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "Bayesian.pkl": {
+    "name": "Bayesian",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:47.780123",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "Bootstrap.pkl": {
+    "name": "Bootstrap",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:47.868980",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "ExpSmoothing.pkl": {
+    "name": "ExpSmoothing",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:47.870724",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "GeometricMean.pkl": {
+    "name": "GeometricMean",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:47.874024",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "HarmonicMean.pkl": {
+    "name": "HarmonicMean",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:47.877032",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "Median.pkl": {
+    "name": "Median",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:47.877032",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "Ridge.pkl": {
+    "name": "Ridge",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:47.877032",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "Lasso.pkl": {
+    "name": "Lasso",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:47.877032",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "ElasticNet.pkl": {
+    "name": "ElasticNet",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:47.877032",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "Huber.pkl": {
+    "name": "Huber",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:47.893122",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "TheilSen.pkl": {
+    "name": "TheilSen",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:48.098964",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "OMP.pkl": {
+    "name": "OMP",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:48.098964",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "BayesianARD.pkl": {
+    "name": "BayesianARD",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:48.114945",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "PassiveAggressive.pkl": {
+    "name": "PassiveAggressive",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:48.118493",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "SVM.pkl": {
+    "name": "SVM",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:48.118493",
+    "is_trained": false,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "KNN.pkl": {
+    "name": "KNN",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:48.118493",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "KNNPattern.pkl": {
+    "name": "KNNPattern",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:48.130594",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "DBSCAN.pkl": {
+    "name": "DBSCAN",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:48.130594",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "IsolationForest.pkl": {
+    "name": "IsolationForest",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:48.130594",
+    "is_trained": false,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "GradientBoosting.pkl": {
+    "name": "GradientBoosting",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:48.210070",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "AdaBoost.pkl": {
+    "name": "AdaBoost",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:48.241755",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "Bagging.pkl": {
+    "name": "Bagging",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:48.257748",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "HistGradientBoosting.pkl": {
+    "name": "HistGradientBoosting",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:49.677233",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "GaussianNB.pkl": {
+    "name": "GaussianNB",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:49.691250",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "BernoulliNB.pkl": {
+    "name": "BernoulliNB",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:49.694996",
+    "is_trained": false,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "QuantileRegressor.pkl": {
+    "name": "QuantileRegressor",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:49.710547",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "RidgeCV.pkl": {
+    "name": "RidgeCV",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:49.716861",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "LSTM.pkl": {
+    "name": "LSTM",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:53.932970",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "Genetic.pkl": {
+    "name": "Genetic",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:53.968238",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "Prophet.pkl": {
+    "name": "Prophet",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:53.968238",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "Transformer.pkl": {
+    "name": "Transformer",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:53.978180",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "BayesianProbability.pkl": {
+    "name": "BayesianProbability",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:53.978180",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "Ensemble.pkl": {
+    "name": "Ensemble",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:53.988640",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "VotingEnsemble.pkl": {
+    "name": "VotingEnsemble",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:16:54.955192",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "WeightedEnsemble.pkl": {
+    "name": "WeightedEnsemble",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:17:11.466477",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "StackingEnsemble.pkl": {
+    "name": "StackingEnsemble",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-14T16:17:13.643554",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "BestEnsemble.pkl": {
+    "name": "BestEnsemble",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-20T15:20:23.758162",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  },
+  "top-3.pkl": {
+    "name": "top-3",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-20T16:10:33.640295",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 49,
+    "pick_count": 7
+  }
+}

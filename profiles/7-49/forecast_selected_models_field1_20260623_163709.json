@@ -1,0 +1,92 @@
+{
+  "timestamp": "2026-06-23T16:37:09.794879",
+  "field": 1,
+  "target_digits": 4,
+  "models_count": 7,
+  "predictions": {
+    "SVM": {
+      "prediction": [
+        2,
+        10,
+        32,
+        34,
+        40,
+        41,
+        45
+      ],
+      "accuracy": 1.22
+    },
+    "MovingAverage": {
+      "prediction": [
+        3,
+        22,
+        27,
+        32,
+        33,
+        34,
+        41
+      ],
+      "accuracy": 1.17
+    },
+    "DBSCAN": {
+      "prediction": [
+        9,
+        12,
+        23,
+        27,
+        31,
+        36,
+        41
+      ],
+      "accuracy": 1.07
+    },
+    "ElasticNet": {
+      "prediction": [
+        3,
+        13,
+        17,
+        30,
+        31,
+        38,
+        42
+      ],
+      "accuracy": 1.0
+    },
+    "HarmonicMean": {
+      "prediction": [
+        4,
+        7,
+        10,
+        12,
+        21,
+        38,
+        48
+      ],
+      "accuracy": 0.78
+    },
+    "Lasso": {
+      "prediction": [
+        4,
+        16,
+        25,
+        26,
+        30,
+        38,
+        43
+      ],
+      "accuracy": 0.78
+    },
+    "RandomForest": {
+      "prediction": [
+        4,
+        7,
+        8,
+        26,
+        33,
+        37,
+        42
+      ],
+      "accuracy": 0.76
+    }
+  }
+}

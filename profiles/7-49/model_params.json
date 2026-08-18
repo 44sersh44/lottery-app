@@ -1,0 +1,171 @@
+{
+  "MovingAverage": {
+    "window": 5
+  },
+  "Bayesian": {
+    "alpha": 0.5621780831931538
+  },
+  "Bootstrap": {
+    "n_resamples": 106
+  },
+  "ExpSmoothing": {
+    "alpha": 0.3872700594236812
+  },
+  "GeometricMean": {},
+  "HarmonicMean": {},
+  "Median": {},
+  "Frequency": {},
+  "Positional": {},
+  "Poisson": {
+    "k": 2
+  },
+  "Markov": {
+    "order": [
+      3,
+      1,
+      0
+    ]
+  },
+  "WeightedFreq": {
+    "decay": 0.7936350297118406
+  },
+  "LinearReg": {},
+  "ARIMA": {
+    "order": [
+      3,
+      1,
+      0
+    ]
+  },
+  "RandomForest": {
+    "n_estimators": 87
+  },
+  "XGBoost": {
+    "n_estimators": 72,
+    "learning_rate": 0.15413406240620245,
+    "max_depth": 4
+  },
+  "Ridge": {
+    "alpha": 0.5
+  },
+  "Lasso": {
+    "alpha": 0.3807947176588889
+  },
+  "ElasticNet": {
+    "alpha": 0.4370861069626263,
+    "l1_ratio": 0.6802857225639665
+  },
+  "Huber": {
+    "epsilon": 1.5934510772507857,
+    "alpha": 0.0009556428757689245
+  },
+  "TheilSen": {},
+  "OMP": {
+    "n_nonzero_coefs": 5
+  },
+  "BayesianARD": {},
+  "PassiveAggressive": {
+    "C": 3.807947176588889
+  },
+  "SVM": {
+    "C": 3.807947176588889,
+    "gamma": "scale",
+    "kernel": "rbf"
+  },
+  "KNN": {
+    "n_neighbors": 5
+  },
+  "KNNPattern": {
+    "n_neighbors": 4
+  },
+  "DBSCAN": {
+    "eps": 0.449816047538945,
+    "min_samples": 5
+  },
+  "IsolationForest": {
+    "contamination": 0.10618101782710439
+  },
+  "ExtraTrees": {
+    "n_estimators": 69
+  },
+  "GradientBoosting": {
+    "n_estimators": 69,
+    "learning_rate": 0.09753571532049582
+  },
+  "AdaBoost": {
+    "n_estimators": 69,
+    "learning_rate": 0.9753571532049581
+  },
+  "Bagging": {
+    "n_estimators": 17
+  },
+  "HistGradientBoosting": {
+    "max_iter": 69,
+    "learning_rate": 0.09753571532049582
+  },
+  "BayesianProbability": {},
+  "MonteCarlo": {
+    "n_simulations": 500
+  },
+  "GaussianNB": {},
+  "BernoulliNB": {
+    "alpha": 0.5
+  },
+  "QuantileRegressor": {
+    "quantile": 0.449816047538945
+  },
+  "RidgeCV": {
+    "alphas": [
+      0.01,
+      0.1,
+      1.0
+    ]
+  },
+  "Ensemble": {
+    "model_selection": "top10",
+    "strategy": "vote"
+  },
+  "VotingEnsemble": {
+    "voting": "hard",
+    "weights": null
+  },
+  "WeightedEnsemble": {
+    "performance_based": 0.3745401188473625,
+    "min_weight": 0.07587945476302646,
+    "use_ranking": 0.9507143064099162
+  },
+  "StackingEnsemble": {
+    "use_features": 0.3745401188473625,
+    "cv_folds": 10,
+    "meta_model": "ridge",
+    "meta_n_estimators": 200,
+    "meta_learning_rate": 0.01,
+    "meta_max_depth": 20,
+    "meta_alpha": 1.0
+  },
+  "Genetic": {
+    "population_size": 69,
+    "generations": 49,
+    "mutation_rate": 0.1
+  },
+  "LSTM": {
+    "lookback": 9,
+    "epochs": 29
+  },
+  "Prophet": {
+    "seasonality_mode": "additive",
+    "yearly_seasonality": false
+  },
+  "Field2": {
+    "model": "Frequency"
+  },
+  "Transformer": {
+    "d_model": 43.9852838031156,
+    "n_heads": 4.0
+  },
+  "BlendingEnsemble": {
+    "meta_model": "lasso",
+    "n_folds": 3.624074561769746,
+    "use_original_features": 0.15599452033620265
+  }
+}

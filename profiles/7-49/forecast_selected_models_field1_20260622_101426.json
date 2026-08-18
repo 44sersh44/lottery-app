@@ -1,0 +1,104 @@
+{
+  "timestamp": "2026-06-22T10:14:26.031906",
+  "field": 1,
+  "target_digits": 4,
+  "models_count": 8,
+  "predictions": {
+    "MovingAverage": {
+      "prediction": [
+        15,
+        19,
+        23,
+        26,
+        31,
+        36,
+        40
+      ],
+      "accuracy": 1.2
+    },
+    "GeometricMean": {
+      "prediction": [
+        18,
+        19,
+        20,
+        21,
+        28,
+        43,
+        44
+      ],
+      "accuracy": 1.1
+    },
+    "Bagging": {
+      "prediction": [
+        1,
+        7,
+        11,
+        22,
+        31,
+        32,
+        44
+      ],
+      "accuracy": 1.1
+    },
+    "KNN": {
+      "prediction": [
+        5,
+        9,
+        12,
+        23,
+        24,
+        44,
+        46
+      ],
+      "accuracy": 1.05
+    },
+    "RandomForest": {
+      "prediction": [
+        11,
+        13,
+        19,
+        20,
+        21,
+        25,
+        31
+      ],
+      "accuracy": 1.02
+    },
+    "BayesianProbability": {
+      "prediction": [
+        13,
+        18,
+        21,
+        23,
+        41,
+        43,
+        44
+      ],
+      "accuracy": 1.02
+    },
+    "ExtraTrees": {
+      "prediction": [
+        7,
+        8,
+        11,
+        20,
+        26,
+        35,
+        45
+      ],
+      "accuracy": 1.0
+    },
+    "ExpSmoothing": {
+      "prediction": [
+        11,
+        17,
+        22,
+        29,
+        41,
+        47,
+        49
+      ],
+      "accuracy": 0.93
+    }
+  }
+}

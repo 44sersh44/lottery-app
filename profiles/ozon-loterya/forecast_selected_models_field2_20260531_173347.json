@@ -1,0 +1,140 @@
+{
+  "timestamp": "2026-05-31T17:33:47.303194",
+  "field": 2,
+  "target_digits": 1,
+  "models_count": 22,
+  "predictions": {
+    "ElasticNet": {
+      "prediction": [
+        25
+      ],
+      "accuracy": 2.0
+    },
+    "ExtraTrees": {
+      "prediction": [
+        19
+      ],
+      "accuracy": 2.0
+    },
+    "QuantileRegressor": {
+      "prediction": [
+        37
+      ],
+      "accuracy": 2.0
+    },
+    "WeightedFreq": {
+      "prediction": [
+        8
+      ],
+      "accuracy": 1.71
+    },
+    "OMP": {
+      "prediction": [
+        29
+      ],
+      "accuracy": 1.71
+    },
+    "DBSCAN": {
+      "prediction": [
+        17
+      ],
+      "accuracy": 1.57
+    },
+    "XGBoost": {
+      "prediction": [
+        54
+      ],
+      "accuracy": 1.43
+    },
+    "Lasso": {
+      "prediction": [
+        29
+      ],
+      "accuracy": 1.43
+    },
+    "Bagging": {
+      "prediction": [
+        26
+      ],
+      "accuracy": 1.43
+    },
+    "LSTM": {
+      "prediction": [
+        19
+      ],
+      "accuracy": 1.43
+    },
+    "Frequency": {
+      "prediction": [
+        19
+      ],
+      "accuracy": 1.29
+    },
+    "Huber": {
+      "prediction": [
+        19
+      ],
+      "accuracy": 1.29
+    },
+    "PassiveAggressive": {
+      "prediction": [
+        25
+      ],
+      "accuracy": 1.29
+    },
+    "HistGradientBoosting": {
+      "prediction": [
+        30
+      ],
+      "accuracy": 1.29
+    },
+    "GaussianNB": {
+      "prediction": [
+        42
+      ],
+      "accuracy": 1.29
+    },
+    "Transformer": {
+      "prediction": [
+        19
+      ],
+      "accuracy": 1.29
+    },
+    "RandomForest": {
+      "prediction": [
+        24
+      ],
+      "accuracy": 1.14
+    },
+    "GradientBoosting": {
+      "prediction": [
+        8
+      ],
+      "accuracy": 1.14
+    },
+    "AdaBoost": {
+      "prediction": [
+        6
+      ],
+      "accuracy": 1.14
+    },
+    "Bootstrap": {
+      "prediction": [
+        19
+      ],
+      "accuracy": 1.0
+    },
+    "Ridge": {
+      "prediction": [
+        28
+      ],
+      "accuracy": 1.0
+    },
+    "IsolationForest": {
+      "prediction": [
+        42
+      ],
+      "accuracy": 0.43
+    }
+  }
+}

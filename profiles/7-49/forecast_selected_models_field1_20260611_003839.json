@@ -1,0 +1,116 @@
+{
+  "timestamp": "2026-06-11T00:38:39.097642",
+  "field": 1,
+  "target_digits": 4,
+  "models_count": 9,
+  "predictions": {
+    "WeightedFreq": {
+      "prediction": [
+        3,
+        11,
+        17,
+        23,
+        29,
+        34,
+        43
+      ],
+      "accuracy": 1.34
+    },
+    "RandomForest": {
+      "prediction": [
+        3,
+        9,
+        11,
+        13,
+        15,
+        35,
+        40
+      ],
+      "accuracy": 1.0
+    },
+    "BayesianARD": {
+      "prediction": [
+        10,
+        15,
+        21,
+        24,
+        31,
+        33,
+        49
+      ],
+      "accuracy": 1.0
+    },
+    "AdaBoost": {
+      "prediction": [
+        10,
+        14,
+        17,
+        18,
+        20,
+        36,
+        37
+      ],
+      "accuracy": 1.0
+    },
+    "Markov": {
+      "prediction": [
+        1,
+        2,
+        5,
+        7,
+        42,
+        44,
+        49
+      ],
+      "accuracy": 0.97
+    },
+    "Bagging": {
+      "prediction": [
+        8,
+        11,
+        13,
+        16,
+        17,
+        22,
+        40
+      ],
+      "accuracy": 0.97
+    },
+    "TheilSen": {
+      "prediction": [
+        4,
+        9,
+        17,
+        34,
+        35,
+        36,
+        45
+      ],
+      "accuracy": 0.89
+    },
+    "GradientBoosting": {
+      "prediction": [
+        5,
+        8,
+        11,
+        15,
+        28,
+        32,
+        48
+      ],
+      "accuracy": 0.74
+    },
+    "MovingAverage": {
+      "prediction": [
+        6,
+        7,
+        9,
+        30,
+        42,
+        44,
+        46
+      ],
+      "accuracy": 0.69
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "timestamp": "2026-06-19T08:32:45.231284",
+  "field": 2,
+  "target_digits": 1,
+  "models_count": 23,
+  "predictions": {
+    "SVM": {
+      "prediction": [
+        4
+      ],
+      "accuracy": 2.0
+    },
+    "ExtraTrees": {
+      "prediction": [
+        32
+      ],
+      "accuracy": 1.88
+    },
+    "Bagging": {
+      "prediction": [
+        23
+      ],
+      "accuracy": 1.88
+    },
+    "ElasticNet": {
+      "prediction": [
+        19
+      ],
+      "accuracy": 1.75
+    },
+    "Ridge": {
+      "prediction": [
+        20
+      ],
+      "accuracy": 1.62
+    },
+    "IsolationForest": {
+      "prediction": [
+        2
+      ],
+      "accuracy": 1.62
+    },
+    "XGBoost": {
+      "prediction": [
+        26
+      ],
+      "accuracy": 1.5
+    },
+    "GradientBoosting": {
+      "prediction": [
+        36
+      ],
+      "accuracy": 1.5
+    },
+    "KNNPattern": {
+      "prediction": [
+        4
+      ],
+      "accuracy": 1.38
+    },
+    "WeightedFreq": {
+      "prediction": [
+        8
+      ],
+      "accuracy": 1.25
+    },
+    "Lasso": {
+      "prediction": [
+        23
+      ],
+      "accuracy": 1.25
+    },
+    "BernoulliNB": {
+      "prediction": [
+        11
+      ],
+      "accuracy": 1.25
+    },
+    "QuantileRegressor": {
+      "prediction": [
+        13
+      ],
+      "accuracy": 1.25
+    },
+    "RidgeCV": {
+      "prediction": [
+        34
+      ],
+      "accuracy": 1.25
+    },
+    "KNN": {
+      "prediction": [
+        22
+      ],
+      "accuracy": 1.12
+    },
+    "BayesianProbability": {
+      "prediction": [
+        29
+      ],
+      "accuracy": 1.12
+    },
+    "RandomForest": {
+      "prediction": [
+        24
+      ],
+      "accuracy": 1.0
+    },
+    "Huber": {
+      "prediction": [
+        24
+      ],
+      "accuracy": 1.0
+    },
+    "DBSCAN": {
+      "prediction": [
+        26
+      ],
+      "accuracy": 1.0
+    },
+    "HistGradientBoosting": {
+      "prediction": [
+        36
+      ],
+      "accuracy": 1.0
+    },
+    "PassiveAggressive": {
+      "prediction": [
+        9
+      ],
+      "accuracy": 0.88
+    },
+    "GaussianNB": {
+      "prediction": [
+        46
+      ],
+      "accuracy": 0.88
+    },
+    "AdaBoost": {
+      "prediction": [
+        18
+      ],
+      "accuracy": 0.5
+    }
+  }
+}

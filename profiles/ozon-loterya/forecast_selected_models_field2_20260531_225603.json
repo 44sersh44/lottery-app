@@ -1,0 +1,188 @@
+{
+  "timestamp": "2026-05-31T22:56:03.650811",
+  "field": 2,
+  "target_digits": 1,
+  "models_count": 30,
+  "predictions": {
+    "PassiveAggressive": {
+      "prediction": [
+        24
+      ],
+      "accuracy": 2.29
+    },
+    "RandomForest": {
+      "prediction": [
+        11
+      ],
+      "accuracy": 2.14
+    },
+    "OMP": {
+      "prediction": [
+        29
+      ],
+      "accuracy": 2.0
+    },
+    "HistGradientBoosting": {
+      "prediction": [
+        34
+      ],
+      "accuracy": 1.86
+    },
+    "WeightedFreq": {
+      "prediction": [
+        8
+      ],
+      "accuracy": 1.71
+    },
+    "Bagging": {
+      "prediction": [
+        23
+      ],
+      "accuracy": 1.71
+    },
+    "ExtraTrees": {
+      "prediction": [
+        24
+      ],
+      "accuracy": 1.57
+    },
+    "AdaBoost": {
+      "prediction": [
+        10
+      ],
+      "accuracy": 1.57
+    },
+    "Lasso": {
+      "prediction": [
+        33
+      ],
+      "accuracy": 1.43
+    },
+    "Huber": {
+      "prediction": [
+        19
+      ],
+      "accuracy": 1.43
+    },
+    "SVM": {
+      "prediction": [
+        2
+      ],
+      "accuracy": 1.43
+    },
+    "IsolationForest": {
+      "prediction": [
+        9
+      ],
+      "accuracy": 1.43
+    },
+    "Ensemble": {
+      "prediction": [
+        27
+      ],
+      "accuracy": 1.43
+    },
+    "VotingEnsemble": {
+      "prediction": [
+        27
+      ],
+      "accuracy": 1.43
+    },
+    "Frequency": {
+      "prediction": [
+        19
+      ],
+      "accuracy": 1.29
+    },
+    "XGBoost": {
+      "prediction": [
+        38
+      ],
+      "accuracy": 1.29
+    },
+    "BayesianARD": {
+      "prediction": [
+        34
+      ],
+      "accuracy": 1.29
+    },
+    "DBSCAN": {
+      "prediction": [
+        10
+      ],
+      "accuracy": 1.29
+    },
+    "Prophet": {
+      "prediction": [
+        19
+      ],
+      "accuracy": 1.29
+    },
+    "Transformer": {
+      "prediction": [
+        19
+      ],
+      "accuracy": 1.29
+    },
+    "Bootstrap": {
+      "prediction": [
+        19
+      ],
+      "accuracy": 1.14
+    },
+    "KNN": {
+      "prediction": [
+        37
+      ],
+      "accuracy": 1.14
+    },
+    "GradientBoosting": {
+      "prediction": [
+        17
+      ],
+      "accuracy": 1.14
+    },
+    "BernoulliNB": {
+      "prediction": [
+        38
+      ],
+      "accuracy": 1.14
+    },
+    "StackingEnsemble": {
+      "prediction": [
+        27
+      ],
+      "accuracy": 1.14
+    },
+    "Ridge": {
+      "prediction": [
+        32
+      ],
+      "accuracy": 1.0
+    },
+    "MonteCarlo": {
+      "prediction": [
+        19
+      ],
+      "accuracy": 1.0
+    },
+    "LSTM": {
+      "prediction": [
+        19
+      ],
+      "accuracy": 0.86
+    },
+    "ElasticNet": {
+      "prediction": [
+        23
+      ],
+      "accuracy": 0.43
+    },
+    "WeightedEnsemble": {
+      "prediction": [
+        27
+      ],
+      "accuracy": 0.0
+    }
+  }
+}

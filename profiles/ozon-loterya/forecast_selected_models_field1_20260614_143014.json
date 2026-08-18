@@ -1,0 +1,164 @@
+{
+  "timestamp": "2026-06-14T14:30:14.695458",
+  "field": 1,
+  "target_digits": 4,
+  "models_count": 13,
+  "predictions": {
+    "Markov": {
+      "prediction": [
+        2,
+        8,
+        18,
+        19,
+        20,
+        27,
+        31
+      ],
+      "accuracy": 1.88
+    },
+    "RandomForest": {
+      "prediction": [
+        2,
+        6,
+        10,
+        20,
+        23,
+        26,
+        28
+      ],
+      "accuracy": 1.88
+    },
+    "HistGradientBoosting": {
+      "prediction": [
+        4,
+        6,
+        9,
+        21,
+        24,
+        26,
+        35
+      ],
+      "accuracy": 1.75
+    },
+    "QuantileRegressor": {
+      "prediction": [
+        4,
+        10,
+        11,
+        23,
+        26,
+        27,
+        28
+      ],
+      "accuracy": 1.75
+    },
+    "IsolationForest": {
+      "prediction": [
+        5,
+        11,
+        17,
+        21,
+        23,
+        31,
+        32
+      ],
+      "accuracy": 1.5
+    },
+    "BayesianProbability": {
+      "prediction": [
+        1,
+        2,
+        4,
+        11,
+        17,
+        33,
+        35
+      ],
+      "accuracy": 1.5
+    },
+    "ARIMA": {
+      "prediction": [
+        2,
+        11,
+        13,
+        18,
+        23,
+        32,
+        34
+      ],
+      "accuracy": 1.5
+    },
+    "KNNPattern": {
+      "prediction": [
+        8,
+        11,
+        13,
+        14,
+        20,
+        29,
+        33
+      ],
+      "accuracy": 1.38
+    },
+    "Bootstrap": {
+      "prediction": [
+        3,
+        8,
+        11,
+        17,
+        19,
+        20,
+        28
+      ],
+      "accuracy": 1.12
+    },
+    "Bayesian": {
+      "prediction": [
+        3,
+        8,
+        11,
+        17,
+        19,
+        20,
+        28
+      ],
+      "accuracy": 1.0
+    },
+    "BernoulliNB": {
+      "prediction": [
+        3,
+        10,
+        13,
+        18,
+        20,
+        29,
+        34
+      ],
+      "accuracy": 1.0
+    },
+    "Prophet": {
+      "prediction": [
+        8,
+        11,
+        14,
+        19,
+        20,
+        27,
+        28
+      ],
+      "accuracy": 1.0
+    },
+    "MonteCarlo": {
+      "prediction": [
+        3,
+        11,
+        13,
+        19,
+        20,
+        27,
+        28
+      ],
+      "accuracy": 1.0
+    }
+  }
+}

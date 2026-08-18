@@ -1,0 +1,74 @@
+{
+  "timestamp": "2026-05-31T17:25:57.358547",
+  "field": 2,
+  "target_digits": 1,
+  "models_count": 22,
+  "predictions": {
+    "WeightedFreq": [
+      8
+    ],
+    "Bootstrap": [
+      19
+    ],
+    "Frequency": [
+      19
+    ],
+    "RandomForest": [
+      17
+    ],
+    "XGBoost": [
+      48
+    ],
+    "Ridge": [
+      20
+    ],
+    "Lasso": [
+      21
+    ],
+    "ElasticNet": [
+      37
+    ],
+    "Huber": [
+      38
+    ],
+    "OMP": [
+      20
+    ],
+    "PassiveAggressive": [
+      19
+    ],
+    "DBSCAN": [
+      4
+    ],
+    "IsolationForest": [
+      38
+    ],
+    "ExtraTrees": [
+      33
+    ],
+    "GradientBoosting": [
+      18
+    ],
+    "AdaBoost": [
+      2
+    ],
+    "Bagging": [
+      16
+    ],
+    "HistGradientBoosting": [
+      23
+    ],
+    "GaussianNB": [
+      39
+    ],
+    "QuantileRegressor": [
+      26
+    ],
+    "LSTM": [
+      19
+    ],
+    "Transformer": [
+      19
+    ]
+  }
+}

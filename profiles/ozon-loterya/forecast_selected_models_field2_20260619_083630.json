@@ -1,0 +1,146 @@
+{
+  "timestamp": "2026-06-19T08:36:30.779335",
+  "field": 2,
+  "target_digits": 1,
+  "models_count": 23,
+  "predictions": {
+    "ElasticNet": {
+      "prediction": [
+        28
+      ],
+      "accuracy": 2.12
+    },
+    "Huber": {
+      "prediction": [
+        27
+      ],
+      "accuracy": 1.75
+    },
+    "GradientBoosting": {
+      "prediction": [
+        29
+      ],
+      "accuracy": 1.75
+    },
+    "XGBoost": {
+      "prediction": [
+        35
+      ],
+      "accuracy": 1.5
+    },
+    "PassiveAggressive": {
+      "prediction": [
+        30
+      ],
+      "accuracy": 1.5
+    },
+    "Bagging": {
+      "prediction": [
+        34
+      ],
+      "accuracy": 1.5
+    },
+    "HistGradientBoosting": {
+      "prediction": [
+        27
+      ],
+      "accuracy": 1.5
+    },
+    "QuantileRegressor": {
+      "prediction": [
+        16
+      ],
+      "accuracy": 1.5
+    },
+    "IsolationForest": {
+      "prediction": [
+        30
+      ],
+      "accuracy": 1.38
+    },
+    "BayesianProbability": {
+      "prediction": [
+        45
+      ],
+      "accuracy": 1.38
+    },
+    "WeightedFreq": {
+      "prediction": [
+        8
+      ],
+      "accuracy": 1.25
+    },
+    "RandomForest": {
+      "prediction": [
+        32
+      ],
+      "accuracy": 1.25
+    },
+    "SVM": {
+      "prediction": [
+        2
+      ],
+      "accuracy": 1.25
+    },
+    "DBSCAN": {
+      "prediction": [
+        33
+      ],
+      "accuracy": 1.25
+    },
+    "BernoulliNB": {
+      "prediction": [
+        22
+      ],
+      "accuracy": 1.25
+    },
+    "ExtraTrees": {
+      "prediction": [
+        31
+      ],
+      "accuracy": 1.12
+    },
+    "GaussianNB": {
+      "prediction": [
+        44
+      ],
+      "accuracy": 1.12
+    },
+    "RidgeCV": {
+      "prediction": [
+        37
+      ],
+      "accuracy": 1.12
+    },
+    "Lasso": {
+      "prediction": [
+        20
+      ],
+      "accuracy": 1.0
+    },
+    "KNNPattern": {
+      "prediction": [
+        44
+      ],
+      "accuracy": 1.0
+    },
+    "AdaBoost": {
+      "prediction": [
+        21
+      ],
+      "accuracy": 1.0
+    },
+    "Ridge": {
+      "prediction": [
+        28
+      ],
+      "accuracy": 0.88
+    },
+    "KNN": {
+      "prediction": [
+        21
+      ],
+      "accuracy": 0.88
+    }
+  }
+}

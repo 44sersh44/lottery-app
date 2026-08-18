@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2026-05-23T17:46:03.402086",
+    "prediction": [
+      6,
+      13,
+      14,
+      20,
+      24,
+      26,
+      45
+    ],
+    "prediction2": [],
+    "confidence": 100.0,
+    "type": "ensemble"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-06-25T18:00:10.965422",
+  "field": 1,
+  "target_digits": 5,
+  "models_count": 1,
+  "predictions": {
+    "Lasso": {
+      "prediction": [
+        7,
+        9,
+        14,
+        18,
+        25,
+        26,
+        29
+      ],
+      "accuracy": 1.5
+    }
+  }
+}

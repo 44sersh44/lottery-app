@@ -1,0 +1,867 @@
+[
+  {
+    "field": 1,
+    "method": "walk_forward",
+    "initial_window": 28,
+    "total_blocks": 35,
+    "timestamp": "2026-07-04T14:34:40.036038",
+    "results": {
+      "Markov": {
+        "best_params": {
+          "order": [
+            1,
+            1,
+            0
+          ]
+        },
+        "best_score": 0.0,
+        "best_avg_matches": 0.0,
+        "best_total_matches": 0,
+        "matches_list": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_Markov_field1_levelcoarse.json"
+      },
+      "WeightedFreq": {
+        "best_params": {
+          "decay": 0.74
+        },
+        "best_score": 0.5714285714285714,
+        "best_avg_matches": 0.7142857142857143,
+        "best_total_matches": 5,
+        "matches_list": [
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          2
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_WeightedFreq_field1_levelfine.json"
+      },
+      "Poisson": {
+        "best_params": {
+          "k": 1
+        },
+        "best_score": 0.42857142857142855,
+        "best_avg_matches": 0.42857142857142855,
+        "best_total_matches": 3,
+        "matches_list": [
+          1,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_Poisson_field1_levelcoarse.json"
+      },
+      "MovingAverage": {
+        "best_params": {
+          "window": 3
+        },
+        "best_score": 1.0,
+        "best_avg_matches": 1.1428571428571428,
+        "best_total_matches": 8,
+        "matches_list": [
+          1,
+          2,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_MovingAverage_field1_levelcoarse.json"
+      },
+      "Bayesian": {
+        "best_params": {
+          "alpha": 0.3
+        },
+        "best_score": 0.8571428571428571,
+        "best_avg_matches": 1.7142857142857142,
+        "best_total_matches": 12,
+        "matches_list": [
+          3,
+          1,
+          3,
+          0,
+          1,
+          2,
+          2
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_Bayesian_field1_levelcoarse.json"
+      },
+      "Bootstrap": {
+        "best_params": {
+          "n_resamples": 55
+        },
+        "best_score": 0.8571428571428571,
+        "best_avg_matches": 1.8571428571428572,
+        "best_total_matches": 13,
+        "matches_list": [
+          3,
+          1,
+          3,
+          0,
+          2,
+          2,
+          2
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_Bootstrap_field1_levelmedium.json"
+      },
+      "ExpSmoothing": {
+        "best_params": {
+          "alpha": 0.5
+        },
+        "best_score": 1.0,
+        "best_avg_matches": 1.5714285714285714,
+        "best_total_matches": 11,
+        "matches_list": [
+          2,
+          1,
+          2,
+          2,
+          1,
+          1,
+          2
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_ExpSmoothing_field1_levelmedium.json"
+      },
+      "GeometricMean": {
+        "best_params": {},
+        "best_score": 0.8571428571428571,
+        "best_avg_matches": 1.1428571428571428,
+        "best_total_matches": 8,
+        "matches_list": [
+          1,
+          1,
+          2,
+          0,
+          1,
+          2,
+          1
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_GeometricMean_field1.json"
+      },
+      "HarmonicMean": {
+        "best_params": {},
+        "best_score": 0.8571428571428571,
+        "best_avg_matches": 1.2857142857142858,
+        "best_total_matches": 9,
+        "matches_list": [
+          1,
+          0,
+          1,
+          1,
+          3,
+          1,
+          2
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_HarmonicMean_field1.json"
+      },
+      "Median": {
+        "best_params": {},
+        "best_score": 0.0,
+        "best_avg_matches": 0.0,
+        "best_total_matches": 0,
+        "matches_list": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_Median_field1.json"
+      },
+      "Frequency": {
+        "best_params": {},
+        "best_score": 0.5714285714285714,
+        "best_avg_matches": 0.5714285714285714,
+        "best_total_matches": 4,
+        "matches_list": [
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_Frequency_field1.json"
+      },
+      "Positional": {
+        "best_params": {},
+        "best_score": 0.7142857142857143,
+        "best_avg_matches": 1.0,
+        "best_total_matches": 7,
+        "matches_list": [
+          1,
+          0,
+          2,
+          1,
+          2,
+          0,
+          1
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_Positional_field1.json"
+      },
+      "LinearReg": {
+        "best_params": {},
+        "best_score": 0.42857142857142855,
+        "best_avg_matches": 0.5714285714285714,
+        "best_total_matches": 4,
+        "matches_list": [
+          0,
+          1,
+          2,
+          0,
+          0,
+          1,
+          0
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_LinearReg_field1.json"
+      },
+      "RandomForest": {
+        "best_params": {
+          "n_estimators": 140
+        },
+        "best_score": 1.0,
+        "best_avg_matches": 1.5714285714285714,
+        "best_total_matches": 11,
+        "matches_list": [
+          2,
+          2,
+          1,
+          1,
+          1,
+          2,
+          2
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_RandomForest_field1_levelcoarse.json"
+      },
+      "XGBoost": {
+        "best_params": {
+          "n_estimators": 54,
+          "learning_rate": 0.12,
+          "max_depth": 4
+        },
+        "best_score": 1.0,
+        "best_avg_matches": 1.8571428571428572,
+        "best_total_matches": 13,
+        "matches_list": [
+          1,
+          5,
+          2,
+          1,
+          1,
+          1,
+          2
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_XGBoost_field1_levelfine.json"
+      },
+      "Ridge": {
+        "best_params": {
+          "alpha": 1.5
+        },
+        "best_score": 1.0,
+        "best_avg_matches": 1.4285714285714286,
+        "best_total_matches": 10,
+        "matches_list": [
+          1,
+          1,
+          1,
+          1,
+          2,
+          1,
+          3
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_Ridge_field1_levelcoarse.json"
+      },
+      "Lasso": {
+        "best_params": {
+          "alpha": 0.0
+        },
+        "best_score": 0.8571428571428571,
+        "best_avg_matches": 0.8571428571428571,
+        "best_total_matches": 6,
+        "matches_list": [
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_Lasso_field1_levelcoarse.json"
+      },
+      "ElasticNet": {
+        "best_params": {
+          "alpha": 0.68,
+          "l1_ratio": 0.0
+        },
+        "best_score": 1.0,
+        "best_avg_matches": 1.2857142857142858,
+        "best_total_matches": 9,
+        "matches_list": [
+          1,
+          1,
+          2,
+          2,
+          1,
+          1,
+          1
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_ElasticNet_field1_levelfine.json"
+      },
+      "Huber": {
+        "best_params": {
+          "epsilon": 1.0,
+          "alpha": 0.0
+        },
+        "best_score": 0.7142857142857143,
+        "best_avg_matches": 1.1428571428571428,
+        "best_total_matches": 8,
+        "matches_list": [
+          1,
+          2,
+          0,
+          1,
+          2,
+          0,
+          2
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_Huber_field1_levelultra.json"
+      },
+      "TheilSen": {
+        "best_params": {},
+        "best_score": 0.5714285714285714,
+        "best_avg_matches": 0.5714285714285714,
+        "best_total_matches": 4,
+        "matches_list": [
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_TheilSen_field1.json"
+      },
+      "OMP": {
+        "best_params": {},
+        "best_score": 0.5714285714285714,
+        "best_avg_matches": 0.7142857142857143,
+        "best_total_matches": 5,
+        "matches_list": [
+          1,
+          1,
+          0,
+          1,
+          0,
+          0,
+          2
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_OMP_field1_levelcoarse.json"
+      },
+      "BayesianARD": {
+        "best_params": {},
+        "best_score": 0.8571428571428571,
+        "best_avg_matches": 1.0,
+        "best_total_matches": 7,
+        "matches_list": [
+          1,
+          2,
+          1,
+          1,
+          1,
+          0,
+          1
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_BayesianARD_field1.json"
+      },
+      "PassiveAggressive": {
+        "best_params": {
+          "C": 0.5
+        },
+        "best_score": 1.0,
+        "best_avg_matches": 1.8571428571428572,
+        "best_total_matches": 13,
+        "matches_list": [
+          2,
+          1,
+          1,
+          4,
+          2,
+          2,
+          1
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_PassiveAggressive_field1_levelcoarse.json"
+      },
+      "SVM": {
+        "best_params": {
+          "C": 0.6,
+          "gamma": "auto"
+        },
+        "best_score": 1.0,
+        "best_avg_matches": 1.5714285714285714,
+        "best_total_matches": 11,
+        "matches_list": [
+          1,
+          2,
+          2,
+          2,
+          1,
+          2,
+          1
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_SVM_field1_levelcoarse.json"
+      },
+      "KNN": {
+        "best_params": {
+          "n_neighbors": 8
+        },
+        "best_score": 1.0,
+        "best_avg_matches": 1.2857142857142858,
+        "best_total_matches": 9,
+        "matches_list": [
+          1,
+          1,
+          2,
+          2,
+          1,
+          1,
+          1
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_KNN_field1_levelfine.json"
+      },
+      "KNNPattern": {
+        "best_params": {
+          "n_neighbors": 3
+        },
+        "best_score": 0.5714285714285714,
+        "best_avg_matches": 0.8571428571428571,
+        "best_total_matches": 6,
+        "matches_list": [
+          0,
+          0,
+          2,
+          1,
+          0,
+          2,
+          1
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_KNNPattern_field1_levelmedium.json"
+      },
+      "DBSCAN": {
+        "best_params": {
+          "eps": 0.34,
+          "min_samples": 5
+        },
+        "best_score": 1.0,
+        "best_avg_matches": 1.7142857142857142,
+        "best_total_matches": 12,
+        "matches_list": [
+          1,
+          3,
+          2,
+          1,
+          2,
+          1,
+          2
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_DBSCAN_field1_levelfine.json"
+      },
+      "IsolationForest": {
+        "best_params": {
+          "contamination": 0.15
+        },
+        "best_score": 1.0,
+        "best_avg_matches": 1.5714285714285714,
+        "best_total_matches": 11,
+        "matches_list": [
+          2,
+          2,
+          1,
+          2,
+          2,
+          1,
+          1
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_IsolationForest_field1_levelultra.json"
+      },
+      "ExtraTrees": {
+        "best_params": {
+          "n_estimators": 90
+        },
+        "best_score": 1.0,
+        "best_avg_matches": 1.5714285714285714,
+        "best_total_matches": 11,
+        "matches_list": [
+          4,
+          1,
+          1,
+          1,
+          1,
+          2,
+          1
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_ExtraTrees_field1_levelcoarse.json"
+      },
+      "GradientBoosting": {
+        "best_params": {
+          "n_estimators": 73,
+          "learning_rate": 0.05
+        },
+        "best_score": 1.0,
+        "best_avg_matches": 2.142857142857143,
+        "best_total_matches": 15,
+        "matches_list": [
+          3,
+          1,
+          3,
+          1,
+          2,
+          2,
+          3
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_GradientBoosting_field1_levelfine.json"
+      },
+      "AdaBoost": {
+        "best_params": {
+          "n_estimators": 50,
+          "learning_rate": 1.0
+        },
+        "best_score": 1.0,
+        "best_avg_matches": 1.5714285714285714,
+        "best_total_matches": 11,
+        "matches_list": [
+          1,
+          3,
+          1,
+          1,
+          2,
+          1,
+          2
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_AdaBoost_field1_levelcoarse.json"
+      },
+      "Bagging": {
+        "best_params": {
+          "n_estimators": 30
+        },
+        "best_score": 0.8571428571428571,
+        "best_avg_matches": 1.4285714285714286,
+        "best_total_matches": 10,
+        "matches_list": [
+          2,
+          1,
+          1,
+          0,
+          1,
+          3,
+          2
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_Bagging_field1_levelfine.json"
+      },
+      "HistGradientBoosting": {
+        "best_params": {
+          "max_iter": 100,
+          "learning_rate": 0.07
+        },
+        "best_score": 1.0,
+        "best_avg_matches": 2.0,
+        "best_total_matches": 14,
+        "matches_list": [
+          2,
+          4,
+          1,
+          1,
+          2,
+          2,
+          2
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_HistGradientBoosting_field1_levelfine.json"
+      },
+      "GaussianNB": {
+        "best_params": {},
+        "best_score": 0.5714285714285714,
+        "best_avg_matches": 0.5714285714285714,
+        "best_total_matches": 4,
+        "matches_list": [
+          1,
+          0,
+          1,
+          1,
+          0,
+          1,
+          0
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_GaussianNB_field1.json"
+      },
+      "BernoulliNB": {
+        "best_params": {
+          "alpha": 1.1
+        },
+        "best_score": 1.0,
+        "best_avg_matches": 1.7142857142857142,
+        "best_total_matches": 12,
+        "matches_list": [
+          1,
+          1,
+          4,
+          1,
+          1,
+          2,
+          2
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_BernoulliNB_field1_levelcoarse.json"
+      },
+      "QuantileRegressor": {
+        "best_params": {
+          "quantile": 0.0
+        },
+        "best_score": 0.7142857142857143,
+        "best_avg_matches": 1.2857142857142858,
+        "best_total_matches": 9,
+        "matches_list": [
+          2,
+          0,
+          1,
+          2,
+          1,
+          0,
+          3
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_QuantileRegressor_field1_levelultra.json"
+      },
+      "RidgeCV": {
+        "best_params": {
+          "alphas": [
+            0.01,
+            0.1,
+            1.0
+          ]
+        },
+        "best_score": 0.7142857142857143,
+        "best_avg_matches": 1.0,
+        "best_total_matches": 7,
+        "matches_list": [
+          3,
+          1,
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_RidgeCV_field1_levelmedium.json"
+      },
+      "Genetic": {
+        "best_params": {
+          "population_size": 50,
+          "generations": 30
+        },
+        "best_score": 0.7142857142857143,
+        "best_avg_matches": 0.8571428571428571,
+        "best_total_matches": 6,
+        "matches_list": [
+          1,
+          2,
+          1,
+          0,
+          1,
+          1,
+          0
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_Genetic_field1_levelfine.json"
+      },
+      "Prophet": {
+        "best_params": {
+          "seasonality_mode": "multiplicative"
+        },
+        "best_score": 0.7142857142857143,
+        "best_avg_matches": 0.8571428571428571,
+        "best_total_matches": 6,
+        "matches_list": [
+          2,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_Prophet_field1_levelcoarse.json"
+      },
+      "BayesianProbability": {
+        "best_params": {},
+        "best_score": 0.42857142857142855,
+        "best_avg_matches": 0.5714285714285714,
+        "best_total_matches": 4,
+        "matches_list": [
+          0,
+          2,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_BayesianProbability_field1.json"
+      },
+      "MonteCarlo": {
+        "best_params": {
+          "n_simulations": 10000
+        },
+        "best_score": 0.7142857142857143,
+        "best_avg_matches": 1.2857142857142858,
+        "best_total_matches": 9,
+        "matches_list": [
+          3,
+          2,
+          2,
+          0,
+          1,
+          1,
+          0
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_MonteCarlo_field1_levelcoarse.json"
+      },
+      "Ensemble": {
+        "best_params": {
+          "model_selection": "top5",
+          "strategy": "vote"
+        },
+        "best_score": 0.5714285714285714,
+        "best_avg_matches": 0.5714285714285714,
+        "best_total_matches": 4,
+        "matches_list": [
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_Ensemble_field1_levelcoarse.json"
+      },
+      "VotingEnsemble": {
+        "best_params": {
+          "voting": "soft"
+        },
+        "best_score": 0.5714285714285714,
+        "best_avg_matches": 0.5714285714285714,
+        "best_total_matches": 4,
+        "matches_list": [
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_VotingEnsemble_field1_levelcoarse.json"
+      },
+      "WeightedEnsemble": {
+        "best_params": {
+          "performance_based": 0,
+          "use_ranking": 0,
+          "min_weight": 0.01
+        },
+        "best_score": 0.5714285714285714,
+        "best_avg_matches": 0.5714285714285714,
+        "best_total_matches": 4,
+        "matches_list": [
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_WeightedEnsemble_field1_levelcoarse.json"
+      },
+      "StackingEnsemble": {
+        "best_params": {
+          "use_features": 0,
+          "cv_folds": 3,
+          "meta_model": "ridge"
+        },
+        "best_score": 0.5714285714285714,
+        "best_avg_matches": 0.5714285714285714,
+        "best_total_matches": 4,
+        "matches_list": [
+          1,
+          1,
+          1,
+          0,
+          1,
+          0,
+          0
+        ],
+        "total_iterations": 7,
+        "iterations_file": "profiles\\6-45\\wf_iter_StackingEnsemble_field1_levelcoarse.json"
+      }
+    }
+  }
+]

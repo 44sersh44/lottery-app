@@ -1,0 +1,314 @@
+{
+  "MovingAverage": {
+    "window": 3
+  },
+  "Bayesian": {
+    "alpha": 0.3
+  },
+  "Bootstrap": {
+    "n_resamples": 50
+  },
+  "ExpSmoothing": {
+    "alpha": 0.2
+  },
+  "GeometricMean": {},
+  "HarmonicMean": {},
+  "Median": {},
+  "Frequency": {},
+  "Positional": {},
+  "Poisson": {
+    "k": 1
+  },
+  "Markov": {
+    "order": [
+      3,
+      1,
+      0
+    ]
+  },
+  "WeightedFreq": {
+    "decay": 0.7
+  },
+  "LinearReg": {},
+  "ARIMA": {
+    "order": [
+      5,
+      1,
+      0
+    ]
+  },
+  "RandomForest": {
+    "n_estimators": 50
+  },
+  "XGBoost": {
+    "n_estimators": 50,
+    "learning_rate": 0.19,
+    "max_depth": 7
+  },
+  "Ridge": {
+    "alpha": 0.1
+  },
+  "Lasso": {
+    "alpha": 0.0
+  },
+  "ElasticNet": {
+    "alpha": 0.1,
+    "l1_ratio": 0.0
+  },
+  "Huber": {
+    "epsilon": 1.0,
+    "alpha": 0.0
+  },
+  "TheilSen": {},
+  "OMP": {
+    "n_nonzero_coefs": null
+  },
+  "BayesianARD": {},
+  "PassiveAggressive": {
+    "C": 0.0
+  },
+  "SVM": {
+    "C": 0.0,
+    "gamma": "scale",
+    "kernel": "rbf"
+  },
+  "KNN": {
+    "n_neighbors": 3
+  },
+  "KNNPattern": {
+    "n_neighbors": 3
+  },
+  "DBSCAN": {
+    "eps": 0.3,
+    "min_samples": 2
+  },
+  "IsolationForest": {
+    "contamination": 0.065
+  },
+  "ExtraTrees": {
+    "n_estimators": 50
+  },
+  "GradientBoosting": {
+    "n_estimators": 50,
+    "learning_rate": 0.05
+  },
+  "AdaBoost": {
+    "n_estimators": 50,
+    "learning_rate": 0.5
+  },
+  "Bagging": {
+    "n_estimators": 10
+  },
+  "HistGradientBoosting": {
+    "max_iter": 50,
+    "learning_rate": 0.05
+  },
+  "BayesianProbability": {},
+  "MonteCarlo": {
+    "n_simulations": 200
+  },
+  "GaussianNB": {},
+  "BernoulliNB": {
+    "alpha": 0.5
+  },
+  "QuantileRegressor": {
+    "quantile": 0.0
+  },
+  "RidgeCV": {
+    "alphas": [
+      0.1,
+      1.0,
+      10.0
+    ]
+  },
+  "Ensemble": {
+    "model_selection": "top5",
+    "strategy": "vote"
+  },
+  "VotingEnsemble": {
+    "voting": "soft",
+    "weights": null
+  },
+  "WeightedEnsemble": {
+    "performance_based": 0,
+    "min_weight": 0.01,
+    "use_ranking": 0,
+    "base_models": "top10"
+  },
+  "StackingEnsemble": {
+    "use_features": 0,
+    "cv_folds": 3,
+    "meta_model": "ridge",
+    "meta_alpha": 0.05
+  },
+  "Genetic": {
+    "population_size": 50,
+    "generations": 30,
+    "mutation_rate": 0.1
+  },
+  "LSTM": {
+    "lookback": 5,
+    "epochs": 10
+  },
+  "Prophet": {
+    "seasonality_mode": "additive",
+    "yearly_seasonality": false
+  },
+  "Field2": {
+    "model": "Frequency"
+  },
+  "Transformer": {
+    "d_model": 32,
+    "n_heads": 4
+  },
+  "WeightedFreq_field2": {
+    "decay": 0.7
+  },
+  "Bootstrap_field2": {
+    "n_resamples": 50
+  },
+  "RandomForest_field2": {
+    "n_estimators": 50
+  },
+  "XGBoost_field2": {
+    "n_estimators": 50,
+    "learning_rate": 0.2,
+    "max_depth": 3
+  },
+  "Ridge_field2": {
+    "alpha": 0.1
+  },
+  "Lasso_field2": {
+    "alpha": 0.0
+  },
+  "ElasticNet_field2": {
+    "alpha": 0.1,
+    "l1_ratio": 0.0
+  },
+  "Huber_field2": {
+    "epsilon": 1.0,
+    "alpha": 0.0
+  },
+  "PassiveAggressive_field2": {
+    "C": 0.0
+  },
+  "DBSCAN_field2": {
+    "eps": 0.3,
+    "min_samples": 2
+  },
+  "IsolationForest_field2": {
+    "contamination": 0.065
+  },
+  "ExtraTrees_field2": {
+    "n_estimators": 50
+  },
+  "GradientBoosting_field2": {
+    "n_estimators": 50,
+    "learning_rate": 0.05
+  },
+  "AdaBoost_field2": {
+    "n_estimators": 50,
+    "learning_rate": 0.5
+  },
+  "Bagging_field2": {
+    "n_estimators": 10
+  },
+  "HistGradientBoosting_field2": {
+    "max_iter": 50,
+    "learning_rate": 0.05
+  },
+  "QuantileRegressor_field2": {
+    "quantile": 0.0
+  },
+  "LSTM_field2": {
+    "lookback": 5,
+    "epochs": 10
+  },
+  "Transformer_field2": {
+    "d_model": 32,
+    "n_heads": 4
+  },
+  "SVM_field2": {
+    "C": 0.0,
+    "gamma": "scale"
+  },
+  "KNN_field2": {
+    "n_neighbors": 3
+  },
+  "BernoulliNB_field2": {
+    "alpha": 0.5
+  },
+  "Prophet_field2": {
+    "seasonality_mode": "additive"
+  },
+  "MonteCarlo_field2": {
+    "n_simulations": 200
+  },
+  "Ensemble_field2": {
+    "model_selection": "top5",
+    "strategy": "vote"
+  },
+  "VotingEnsemble_field2": {
+    "voting": "soft"
+  },
+  "WeightedEnsemble_field2": {
+    "performance_based": 0,
+    "use_ranking": 0,
+    "min_weight": 0.01
+  },
+  "StackingEnsemble_field2": {
+    "use_features": 0,
+    "cv_folds": 3,
+    "meta_model": "ridge"
+  },
+  "KNNPattern_field2": {
+    "n_neighbors": 3
+  },
+  "RidgeCV_field2": {
+    "alphas": [
+      0.1,
+      1.0,
+      10.0
+    ]
+  },
+  "Markov_field2": {
+    "order": [
+      1,
+      1,
+      0
+    ]
+  },
+  "Poisson_field2": {
+    "k": 1
+  },
+  "MovingAverage_field2": {
+    "window": 3
+  },
+  "Bayesian_field2": {
+    "alpha": 0.3
+  },
+  "ExpSmoothing_field2": {
+    "alpha": 0.2
+  },
+  "Genetic_field2": {
+    "population_size": 50,
+    "generations": 30
+  },
+  "BlendingEnsemble": {
+    "meta_model": "ridge",
+    "n_folds": 3,
+    "use_original_features": 0
+  },
+  "BlendingEnsemble_field2": {
+    "meta_model": "ridge",
+    "n_folds": 3,
+    "use_original_features": 0
+  },
+  "ARIMA_field2": {
+    "order": [
+      3,
+      1,
+      0
+    ]
+  }
+}

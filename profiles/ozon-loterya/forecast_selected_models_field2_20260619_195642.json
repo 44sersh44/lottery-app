@@ -1,0 +1,134 @@
+{
+  "timestamp": "2026-06-19T19:56:42.426662",
+  "field": 2,
+  "target_digits": 1,
+  "models_count": 21,
+  "predictions": {
+    "XGBoost": {
+      "prediction": [
+        35
+      ],
+      "accuracy": 2.38
+    },
+    "RandomForest": {
+      "prediction": [
+        51
+      ],
+      "accuracy": 2.25
+    },
+    "PassiveAggressive": {
+      "prediction": [
+        15
+      ],
+      "accuracy": 2.12
+    },
+    "IsolationForest": {
+      "prediction": [
+        11
+      ],
+      "accuracy": 2.0
+    },
+    "GaussianNB": {
+      "prediction": [
+        9
+      ],
+      "accuracy": 1.88
+    },
+    "ExtraTrees": {
+      "prediction": [
+        45
+      ],
+      "accuracy": 1.62
+    },
+    "GradientBoosting": {
+      "prediction": [
+        41
+      ],
+      "accuracy": 1.62
+    },
+    "TheilSen": {
+      "prediction": [
+        33
+      ],
+      "accuracy": 1.5
+    },
+    "QuantileRegressor": {
+      "prediction": [
+        14
+      ],
+      "accuracy": 1.5
+    },
+    "WeightedFreq": {
+      "prediction": [
+        8
+      ],
+      "accuracy": 1.38
+    },
+    "Ridge": {
+      "prediction": [
+        22
+      ],
+      "accuracy": 1.38
+    },
+    "KNN": {
+      "prediction": [
+        25
+      ],
+      "accuracy": 1.38
+    },
+    "KNNPattern": {
+      "prediction": [
+        25
+      ],
+      "accuracy": 1.38
+    },
+    "DBSCAN": {
+      "prediction": [
+        41
+      ],
+      "accuracy": 1.38
+    },
+    "BernoulliNB": {
+      "prediction": [
+        32
+      ],
+      "accuracy": 1.38
+    },
+    "Huber": {
+      "prediction": [
+        33
+      ],
+      "accuracy": 1.25
+    },
+    "AdaBoost": {
+      "prediction": [
+        46
+      ],
+      "accuracy": 1.25
+    },
+    "Bagging": {
+      "prediction": [
+        47
+      ],
+      "accuracy": 1.25
+    },
+    "ElasticNet": {
+      "prediction": [
+        28
+      ],
+      "accuracy": 1.12
+    },
+    "SVM": {
+      "prediction": [
+        9
+      ],
+      "accuracy": 1.12
+    },
+    "HistGradientBoosting": {
+      "prediction": [
+        33
+      ],
+      "accuracy": 0.75
+    }
+  }
+}

@@ -1,0 +1,362 @@
+[
+  {
+    "iteration": 238,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 239,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 240,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 241,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 242,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 243,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 244,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 245,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 246,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 247,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 248,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 249,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 250,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 251,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 252,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 253,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 254,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 255,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 256,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 257,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 258,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 259,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 260,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 261,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 262,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 263,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 264,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 265,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 266,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 267,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 268,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 269,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 270,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 271,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 272,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 273,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 274,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 275,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 276,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 277,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 278,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 279,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 280,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 281,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 282,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 283,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 284,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 285,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 286,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 287,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 288,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 289,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 290,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 291,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 292,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 293,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 294,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 295,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 296,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  },
+  {
+    "iteration": 297,
+    "correct": false,
+    "matches": 0,
+    "error": "The 'learning_rate' parameter of HistGradientBoostingRegressor must be a float in the range (0.0, inf). Got 0 instead."
+  }
+]

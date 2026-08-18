@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-05-31T17:12:50.284723",
+  "field": 1,
+  "target_digits": 4,
+  "models_count": 14,
+  "predictions": {
+    "Markov": [
+      2,
+      

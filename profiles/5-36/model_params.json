@@ -1,0 +1,157 @@
+{
+  "MovingAverage": {
+    "window": 5
+  },
+  "Bayesian": {
+    "alpha": 0.5
+  },
+  "Bootstrap": {
+    "n_resamples": 100
+  },
+  "ExpSmoothing": {
+    "alpha": 0.3
+  },
+  "GeometricMean": {},
+  "HarmonicMean": {},
+  "Median": {},
+  "Frequency": {},
+  "Positional": {},
+  "Poisson": {
+    "k": 1
+  },
+  "Markov": {
+    "order": 1
+  },
+  "WeightedFreq": {
+    "decay": 0.9
+  },
+  "LinearReg": {},
+  "ARIMA": {
+    "order": [
+      5,
+      1,
+      0
+    ]
+  },
+  "RandomForest": {
+    "n_estimators": 50
+  },
+  "XGBoost": {
+    "n_estimators": 100,
+    "learning_rate": 0.1,
+    "max_depth": 3
+  },
+  "Ridge": {
+    "alpha": 1.0
+  },
+  "Lasso": {
+    "alpha": 1.0
+  },
+  "ElasticNet": {
+    "alpha": 1.0,
+    "l1_ratio": 0.5
+  },
+  "Huber": {
+    "epsilon": 1.35,
+    "alpha": 0.0001
+  },
+  "TheilSen": {},
+  "OMP": {
+    "n_nonzero_coefs": null
+  },
+  "BayesianARD": {},
+  "PassiveAggressive": {
+    "C": 1.0
+  },
+  "SVM": {
+    "C": 1.0,
+    "gamma": "scale",
+    "kernel": "rbf"
+  },
+  "KNN": {
+    "n_neighbors": 5
+  },
+  "KNNPattern": {
+    "n_neighbors": 3
+  },
+  "DBSCAN": {
+    "eps": 0.5,
+    "min_samples": 2
+  },
+  "IsolationForest": {
+    "contamination": 0.1
+  },
+  "ExtraTrees": {
+    "n_estimators": 100
+  },
+  "GradientBoosting": {
+    "n_estimators": 100,
+    "learning_rate": 0.1
+  },
+  "AdaBoost": {
+    "n_estimators": 50,
+    "learning_rate": 1.0
+  },
+  "Bagging": {
+    "n_estimators": 10
+  },
+  "HistGradientBoosting": {
+    "max_iter": 100,
+    "learning_rate": 0.1
+  },
+  "GaussianNB": {},
+  "BernoulliNB": {},
+  "QuantileRegressor": {
+    "quantile": 0.5
+  },
+  "RidgeCV": {
+    "alphas": [
+      0.1,
+      1.0,
+      10.0
+    ]
+  },
+  "Ensemble": {
+    "model_selection": "top10",
+    "strategy": "vote"
+  },
+  "VotingEnsemble": {
+    "voting": "soft",
+    "weights": null
+  },
+  "WeightedEnsemble": {
+    "performance_based": true,
+    "min_weight": 0.01,
+    "use_ranking": true
+  },
+  "StackingEnsemble": {
+    "use_features": true,
+    "cv_folds": 5,
+    "meta_model": "ridge"
+  },
+  "Field2": {
+    "model": "Frequency"
+  },
+  "BayesianProbability": {},
+  "MonteCarlo": {
+    "n_simulations": 100000
+  },
+  "BlendingEnsemble": {
+    "meta_model": "ridge",
+    "n_folds": 5,
+    "use_original_features": false
+  },
+  "Genetic": {
+    "population_size": 100,
+    "generations": 50,
+    "mutation_rate": 0.1
+  },
+  "LSTM": {
+    "lookback": 3,
+    "epochs": 10
+  },
+  "Prophet": {
+    "seasonality_mode": "additive",
+    "yearly_seasonality": false
+  }
+}

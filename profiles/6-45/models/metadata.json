@@ -1,0 +1,42 @@
+{
+  "Ensemble.pkl": {
+    "name": "Ensemble",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-04T14:40:11.150893",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 45,
+    "pick_count": 6
+  },
+  "VotingEnsemble.pkl": {
+    "name": "VotingEnsemble",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-04T14:40:11.812643",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 45,
+    "pick_count": 6
+  },
+  "WeightedEnsemble.pkl": {
+    "name": "WeightedEnsemble",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-04T14:40:20.130029",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 45,
+    "pick_count": 6
+  },
+  "StackingEnsemble.pkl": {
+    "name": "StackingEnsemble",
+    "field": 1,
+    "model_version": 2,
+    "saved_at": "2026-07-04T14:40:20.761687",
+    "is_trained": true,
+    "is_double": false,
+    "total_numbers": 45,
+    "pick_count": 6
+  }
+}

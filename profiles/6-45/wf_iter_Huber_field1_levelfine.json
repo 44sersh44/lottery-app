@@ -1,0 +1,100 @@
+[
+  {
+    "iteration": 29,
+    "correct": false,
+    "matches": 0,
+    "prediction": "[4, 12, 19, 24, 36, 39]",
+    "true_block": [
+      27,
+      7,
+      18,
+      23,
+      8,
+      14
+    ]
+  },
+  {
+    "iteration": 30,
+    "correct": false,
+    "matches": 0,
+    "prediction": "[3, 6, 18, 31, 34, 42]",
+    "true_block": [
+      9,
+      29,
+      32,
+      15,
+      27,
+      11
+    ]
+  },
+  {
+    "iteration": 31,
+    "correct": true,
+    "matches": 2,
+    "prediction": "[3, 15, 19, 23, 27, 35]",
+    "true_block": [
+      22,
+      34,
+      23,
+      16,
+      19,
+      37
+    ]
+  },
+  {
+    "iteration": 32,
+    "correct": true,
+    "matches": 1,
+    "prediction": "[1, 14, 18, 31, 33, 34]",
+    "true_block": [
+      38,
+      40,
+      35,
+      44,
+      31,
+      41
+    ]
+  },
+  {
+    "iteration": 33,
+    "correct": true,
+    "matches": 1,
+    "prediction": "[11, 12, 20, 23, 31, 41]",
+    "true_block": [
+      42,
+      36,
+      24,
+      18,
+      23,
+      45
+    ]
+  },
+  {
+    "iteration": 34,
+    "correct": false,
+    "matches": 0,
+    "prediction": "[4, 13, 16, 31, 32, 42]",
+    "true_block": [
+      12,
+      19,
+      41,
+      35,
+      29,
+      14
+    ]
+  },
+  {
+    "iteration": 35,
+    "correct": true,
+    "matches": 1,
+    "prediction": "[1, 10, 25, 28, 31, 45]",
+    "true_block": [
+      4,
+      28,
+      38,
+      42,
+      43,
+      11
+    ]
+  }
+]

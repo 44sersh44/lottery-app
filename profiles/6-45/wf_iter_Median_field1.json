@@ -1,0 +1,44 @@
+[
+  {
+    "iteration": 29,
+    "correct": false,
+    "matches": 0,
+    "error": "'MedianPredictor' object has no attribute '_predict_single'"
+  },
+  {
+    "iteration": 30,
+    "correct": false,
+    "matches": 0,
+    "error": "'MedianPredictor' object has no attribute '_predict_single'"
+  },
+  {
+    "iteration": 31,
+    "correct": false,
+    "matches": 0,
+    "error": "'MedianPredictor' object has no attribute '_predict_single'"
+  },
+  {
+    "iteration": 32,
+    "correct": false,
+    "matches": 0,
+    "error": "'MedianPredictor' object has no attribute '_predict_single'"
+  },
+  {
+    "iteration": 33,
+    "correct": false,
+    "matches": 0,
+    "error": "'MedianPredictor' object has no attribute '_predict_single'"
+  },
+  {
+    "iteration": 34,
+    "correct": false,
+    "matches": 0,
+    "error": "'MedianPredictor' object has no attribute '_predict_single'"
+  },
+  {
+    "iteration": 35,
+    "correct": false,
+    "matches": 0,
+    "error": "'MedianPredictor' object has no attribute '_predict_single'"
+  }
+]

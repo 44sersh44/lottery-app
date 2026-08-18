@@ -1,0 +1,116 @@
+{
+  "timestamp": "2026-06-22T10:03:33.192940",
+  "field": 1,
+  "target_digits": 4,
+  "models_count": 9,
+  "predictions": {
+    "Bagging": {
+      "prediction": [
+        3,
+        7,
+        11,
+        25,
+        29,
+        31,
+        48
+      ],
+      "accuracy": 1.2
+    },
+    "PassiveAggressive": {
+      "prediction": [
+        2,
+        3,
+        16,
+        20,
+        35,
+        44,
+        49
+      ],
+      "accuracy": 1.12
+    },
+    "BayesianProbability": {
+      "prediction": [
+        5,
+        13,
+        25,
+        32,
+        35,
+        44,
+        49
+      ],
+      "accuracy": 1.12
+    },
+    "AdaBoost": {
+      "prediction": [
+        5,
+        10,
+        11,
+        26,
+        28,
+        37,
+        42
+      ],
+      "accuracy": 1.1
+    },
+    "ExpSmoothing": {
+      "prediction": [
+        5,
+        23,
+        28,
+        33,
+        35,
+        43,
+        49
+      ],
+      "accuracy": 1.05
+    },
+    "Huber": {
+      "prediction": [
+        6,
+        7,
+        16,
+        17,
+        32,
+        42,
+        44
+      ],
+      "accuracy": 1.05
+    },
+    "RidgeCV": {
+      "prediction": [
+        6,
+        12,
+        24,
+        25,
+        29,
+        38,
+        49
+      ],
+      "accuracy": 0.93
+    },
+    "BernoulliNB": {
+      "prediction": [
+        8,
+        21,
+        22,
+        33,
+        34,
+        40,
+        41
+      ],
+      "accuracy": 0.9
+    },
+    "ElasticNet": {
+      "prediction": [
+        7,
+        11,
+        13,
+        20,
+        35,
+        39,
+        49
+      ],
+      "accuracy": 0.85
+    }
+  }
+}

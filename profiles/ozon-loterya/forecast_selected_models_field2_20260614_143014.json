@@ -1,0 +1,128 @@
+{
+  "timestamp": "2026-06-14T14:30:14.695458",
+  "field": 2,
+  "target_digits": 1,
+  "models_count": 20,
+  "predictions": {
+    "HistGradientBoosting": {
+      "prediction": [
+        29
+      ],
+      "accuracy": 1.75
+    },
+    "QuantileRegressor": {
+      "prediction": [
+        31
+      ],
+      "accuracy": 1.75
+    },
+    "XGBoost": {
+      "prediction": [
+        35
+      ],
+      "accuracy": 1.62
+    },
+    "SVM": {
+      "prediction": [
+        3
+      ],
+      "accuracy": 1.62
+    },
+    "KNN": {
+      "prediction": [
+        37
+      ],
+      "accuracy": 1.62
+    },
+    "GradientBoosting": {
+      "prediction": [
+        28
+      ],
+      "accuracy": 1.62
+    },
+    "AdaBoost": {
+      "prediction": [
+        23
+      ],
+      "accuracy": 1.62
+    },
+    "ElasticNet": {
+      "prediction": [
+        18
+      ],
+      "accuracy": 1.5
+    },
+    "IsolationForest": {
+      "prediction": [
+        33
+      ],
+      "accuracy": 1.5
+    },
+    "BayesianProbability": {
+      "prediction": [
+        25
+      ],
+      "accuracy": 1.5
+    },
+    "WeightedFreq": {
+      "prediction": [
+        8
+      ],
+      "accuracy": 1.38
+    },
+    "Ridge": {
+      "prediction": [
+        28
+      ],
+      "accuracy": 1.38
+    },
+    "KNNPattern": {
+      "prediction": [
+        19
+      ],
+      "accuracy": 1.38
+    },
+    "Bagging": {
+      "prediction": [
+        29
+      ],
+      "accuracy": 1.38
+    },
+    "DBSCAN": {
+      "prediction": [
+        43
+      ],
+      "accuracy": 1.25
+    },
+    "Bootstrap": {
+      "prediction": [
+        8
+      ],
+      "accuracy": 1.12
+    },
+    "Huber": {
+      "prediction": [
+        30
+      ],
+      "accuracy": 1.12
+    },
+    "BernoulliNB": {
+      "prediction": [
+        20
+      ],
+      "accuracy": 1.0
+    },
+    "MonteCarlo": {
+      "prediction": [
+        19
+      ],
+      "accuracy": 1.0
+    },
+    "ExtraTrees": {
+      "prediction": [
+        23
+      ],
+      "accuracy": 0.75
+    }
+  }
+}

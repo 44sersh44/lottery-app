@@ -1,0 +1,100 @@
+[
+  {
+    "iteration": 29,
+    "correct": true,
+    "matches": 3,
+    "prediction": "[np.int64(7), np.int64(14), np.int64(16), np.int64(19), np.int64(21), np.int64(23)]",
+    "true_block": [
+      27,
+      7,
+      18,
+      23,
+      8,
+      14
+    ]
+  },
+  {
+    "iteration": 30,
+    "correct": true,
+    "matches": 1,
+    "prediction": "[np.int64(9), np.int64(14), np.int64(19), np.int64(21), np.int64(23), np.int64(28)]",
+    "true_block": [
+      9,
+      29,
+      32,
+      15,
+      27,
+      11
+    ]
+  },
+  {
+    "iteration": 31,
+    "correct": true,
+    "matches": 3,
+    "prediction": "[np.int64(14), np.int64(16), np.int64(19), np.int64(21), np.int64(23), np.int64(28)]",
+    "true_block": [
+      22,
+      34,
+      23,
+      16,
+      19,
+      37
+    ]
+  },
+  {
+    "iteration": 32,
+    "correct": false,
+    "matches": 0,
+    "prediction": "[np.int64(14), np.int64(16), np.int64(19), np.int64(21), np.int64(23), np.int64(28)]",
+    "true_block": [
+      38,
+      40,
+      35,
+      44,
+      31,
+      41
+    ]
+  },
+  {
+    "iteration": 33,
+    "correct": true,
+    "matches": 1,
+    "prediction": "[np.int64(14), np.int64(16), np.int64(19), np.int64(21), np.int64(23), np.int64(28)]",
+    "true_block": [
+      42,
+      36,
+      24,
+      18,
+      23,
+      45
+    ]
+  },
+  {
+    "iteration": 34,
+    "correct": true,
+    "matches": 2,
+    "prediction": "[np.int64(14), np.int64(16), np.int64(19), np.int64(21), np.int64(23), np.int64(28)]",
+    "true_block": [
+      12,
+      19,
+      41,
+      35,
+      29,
+      14
+    ]
+  },
+  {
+    "iteration": 35,
+    "correct": true,
+    "matches": 2,
+    "prediction": "[np.int64(16), np.int64(19), np.int64(20), np.int64(23), np.int64(28), np.int64(42)]",
+    "true_block": [
+      4,
+      28,
+      38,
+      42,
+      43,
+      11
+    ]
+  }
+]

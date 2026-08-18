@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-06-19T19:56:42.425657",
+  "field": 1,
+  "target_digits": 5,
+  "models_count": 1,
+  "predictions": {
+    "ExpSmoothing": {
+      "prediction": [
+        2,
+        3,
+        4,
+        17,
+        18,
+        23,
+        30
+      ],
+      "accuracy": 1.25
+    }
+  }
+}

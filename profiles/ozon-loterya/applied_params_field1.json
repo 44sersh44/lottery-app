@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-06-25T17:58:43.390480",
+  "field": 1,
+  "target_digits": 5,
+  "selected_models": [
+    "Lasso"
+  ],
+  "models_count": 1,
+  "message": "Применены параметры для 1 моделей"
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "iteration": 45,
+    "correct": false,
+    "matches": 0,
+    "prediction": "16",
+    "true_block": [
+      47
+    ]
+  },
+  {
+    "iteration": 46,
+    "correct": false,
+    "matches": 0,
+    "prediction": "46",
+    "true_block": [
+      42
+    ]
+  },
+  {
+    "iteration": 47,
+    "correct": false,
+    "matches": 0,
+    "prediction": "29",
+    "true_block": [
+      3
+    ]
+  },
+  {
+    "iteration": 48,
+    "correct": false,
+    "matches": 0,
+    "prediction": "34",
+    "true_block": [
+      8
+    ]
+  },
+  {
+    "iteration": 49,
+    "correct": false,
+    "matches": 0,
+    "prediction": "44",
+    "true_block": [
+      37
+    ]
+  },
+  {
+    "iteration": 50,
+    "correct": true,
+    "matches": 1,
+    "prediction": "36",
+    "true_block": [
+      36
+    ]
+  },
+  {
+    "iteration": 51,
+    "correct": false,
+    "matches": 0,
+    "prediction": "30",
+    "true_block": [
+      7
+    ]
+  },
+  {
+    "iteration": 52,
+    "correct": false,
+    "matches": 0,
+    "prediction": "20",
+    "true_block": [
+      44
+    ]
+  },
+  {
+    "iteration": 53,
+    "correct": false,
+    "matches": 0,
+    "prediction": "25",
+    "true_block": [
+      48
+    ]
+  },
+  {
+    "iteration": 54,
+    "correct": false,
+    "matches": 0,
+    "prediction": "39",
+    "true_block": [
+      8
+    ]
+  },
+  {
+    "iteration": 55,
+    "correct": false,
+    "matches": 0,
+    "prediction": "41",
+    "true_block": [
+      10
+    ]
+  }
+]

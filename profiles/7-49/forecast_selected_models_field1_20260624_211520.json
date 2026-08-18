@@ -1,0 +1,104 @@
+{
+  "timestamp": "2026-06-24T21:15:20.635674",
+  "field": 1,
+  "target_digits": 4,
+  "models_count": 8,
+  "predictions": {
+    "Markov": {
+      "prediction": [
+        13,
+        14,
+        17,
+        24,
+        39,
+        45,
+        48
+      ],
+      "accuracy": 1.32
+    },
+    "Lasso": {
+      "prediction": [
+        3,
+        6,
+        14,
+        22,
+        39,
+        41,
+        49
+      ],
+      "accuracy": 1.15
+    },
+    "SVM": {
+      "prediction": [
+        1,
+        9,
+        19,
+        24,
+        28,
+        32,
+        34
+      ],
+      "accuracy": 1.15
+    },
+    "BayesianARD": {
+      "prediction": [
+        7,
+        15,
+        19,
+        24,
+        26,
+        37,
+        46
+      ],
+      "accuracy": 1.1
+    },
+    "GaussianNB": {
+      "prediction": [
+        2,
+        3,
+        16,
+        17,
+        20,
+        22,
+        26
+      ],
+      "accuracy": 1.1
+    },
+    "HarmonicMean": {
+      "prediction": [
+        9,
+        11,
+        12,
+        13,
+        14,
+        21,
+        42
+      ],
+      "accuracy": 1.07
+    },
+    "KNN": {
+      "prediction": [
+        2,
+        10,
+        14,
+        30,
+        37,
+        42,
+        49
+      ],
+      "accuracy": 1.02
+    },
+    "AdaBoost": {
+      "prediction": [
+        3,
+        16,
+        21,
+        28,
+        31,
+        37,
+        42
+      ],
+      "accuracy": 0.88
+    }
+  }
+}
